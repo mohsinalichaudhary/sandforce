@@ -1,0 +1,6 @@
+# robots.txt for https://www.sandforce.ae/
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.sandforce.ae/sitemap.xml
