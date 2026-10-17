@@ -70,6 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Mobile Drawer Toggle
   const toggleBtn = document.getElementById('mobileMenuToggle');
   const drawer = document.getElementById('mobileDrawer');
+  const header = document.querySelector('.site-header');
 
   if (toggleBtn && drawer) {
     toggleBtn.addEventListener('click', function () {
@@ -79,6 +80,9 @@ document.addEventListener('DOMContentLoaded', function () {
         toggleBtn.classList.remove('open');
         document.body.style.overflow = '';
       } else {
+        if (header) {
+          drawer.style.top = header.offsetHeight + 'px';
+        }
         drawer.classList.add('active');
         toggleBtn.classList.add('open');
         document.body.style.overflow = 'hidden';
