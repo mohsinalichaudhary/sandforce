@@ -1,1 +1,7139 @@
-window.TATRA_CATALOG = [{"id":1,"title":"Ashtray","oems":["113797161","443825017800","4438250060"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-001.webp"},{"id":2,"title":"Gear-Shift Booster","oems":["341220602","442071820334","2071820334"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-002.webp"},{"id":3,"title":"Bag","oems":["442054390604","341292801","273124040104","2731117190"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-003.webp"},{"id":4,"title":"Brake unit 12 739","oems":["4439992290","443999229000","07512739075"],"category":"Brake Systems","image":"assets/tatra/tatra-004.webp"},{"id":5,"title":"Repair kit-Brake unit PERROT","oems":["12999404","4439992400"],"category":"Brake Systems","image":"assets/tatra/tatra-005.webp"},{"id":6,"title":"Repair kit-Brake unit PERROT","oems":["12999418","4439992370"],"category":"Brake Systems","image":"assets/tatra/tatra-006.webp"},{"id":7,"title":"Servo-Steering Tank","oems":["341500630","336676152215","336676155215","336676152215","3365290050"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-007.webp"},{"id":8,"title":"Fuel gauge float","oems":["341983040341983042","443429085021443429145021","4434290040"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-008.webp"},{"id":9,"title":"Balancing tank","oems":["193595056","443611076000","4436110270"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-009.webp"},{"id":10,"title":"Repair kit for Engine T163","oems":["2077400954","2077400684"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-010.webp"},{"id":11,"title":"Door lock assembly, RH Assy. Door lock assembly, LH","oems":["133988000","549912007800","5494520210","133988010","549912007600","5494520200"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-011.webp"},{"id":12,"title":"Brake cylinder T163","oems":["442074860394","4436122420"],"category":"Brake Systems","image":"assets/tatra/tatra-012.webp"},{"id":13,"title":"Alternator","oems":["28/55A","9515.631","4431130160"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-013.webp"},{"id":14,"title":"Power steering pump T163","oems":["3361460380"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-014.webp"},{"id":15,"title":"Reduction Pre-Selector","oems":["335510742","442079050204","2079050204"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-015.webp"},{"id":16,"title":"Air-Pressure Regulator","oems":["341530186","443612015809","341-530187","443612015810","4436140260"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-016.webp"},{"id":17,"title":"Condensate Sump","oems":["344534743","443612051801","4436123270"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-017.webp"},{"id":18,"title":"Preliminary fuel filter T2","oems":["341968000","443979730101","4437410100"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-018.webp"},{"id":19,"title":"Glass for filter","oems":["341968360","632629512090","9905000540"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-019.webp"},{"id":20,"title":"Steering Lock","oems":["133913001","549613234080","5494517020"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-020.webp"},{"id":21,"title":"T2 Steering Lock","oems":["341913000","549623624080","5494517030"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-021.webp"},{"id":22,"title":"Clutch Cover MFZ420","oems":["341150070","442170505129442370505186","4429995000"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-022.webp"},{"id":23,"title":"Diaphragm spring","oems":["442150635029"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-023.webp"},{"id":24,"title":"Air Compressor T163","oems":["443614029000","4436140290","4192"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-024.webp"},{"id":25,"title":"Compressor φ90","oems":["341100001","443614031800","4436140150","4131"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-025.webp"},{"id":26,"title":"Compressor φ80","oems":["341100000","443614001800","4436140120","4101"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-026.webp"},{"id":27,"title":"Compressor double cylinder","oems":["341100002","443614002800","4436140040","4102"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-027.webp"},{"id":28,"title":"Compressor LK4938","oems":["443612187000","4436121890","4938"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-028.webp"},{"id":29,"title":"Flywheel","oems":["341010302","442070100354","2070100354"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-029.webp"},{"id":30,"title":"Flywheel T163","oems":["2070100474"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-030.webp"},{"id":31,"title":"Gear rim T613","oems":["2010240164"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-031.webp"},{"id":32,"title":"Distance Lamp Switch","oems":["360939130","443853187050","4438531180"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-032.webp"},{"id":33,"title":"Switch SWF 201 576","oems":["443853015000","4438530150"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-033.webp"},{"id":34,"title":"Cover sheet RH","oems":["341702122","442925810174","2925810174","603-35"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-034.webp"},{"id":35,"title":"Cover sheet LH","oems":["341702123","442925810184","2925810184","603-36"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-035.webp"},{"id":36,"title":"Window Dropper","oems":["317989040","441776300306","5493211200"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-036.webp"},{"id":37,"title":"Window dropper","oems":["341989040","442976300114","2976300114"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-037.webp"},{"id":38,"title":"Window dropper","oems":["2976300134"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-038.webp"},{"id":39,"title":"Handle","oems":["317989100","443873560035442973560304","2973560304"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-039.webp"},{"id":40,"title":"Door lock","oems":["112988061","549613065040","5494520240"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-040.webp"},{"id":41,"title":"Door lock","oems":["112988060","549613280040","5494520130"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-041.webp"},{"id":42,"title":"Gear pump","oems":["317930293390930290","443990126019443990126024","9907003040"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-042.webp"},{"id":43,"title":"Bellows Spring 12 bolts","oems":["341350851","443624052000","4436240040"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-043.webp"},{"id":44,"title":"Hydreulic Cylinder","oems":["341660601","336315432179","3363110030"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-044.webp"},{"id":45,"title":"Hydraulic Aggregate","oems":["341660651","336194011218","3361460280"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-045.webp"},{"id":46,"title":"Speedometer","oems":["315980071341981021","443411151000","4434110080"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-046.webp"},{"id":47,"title":"Cylinder Head Thermometer","oems":["341982061","443414093981","4434140140"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-047.webp"},{"id":48,"title":"Oil Pressure Gauge","oems":["316982000","443415048951443415071000","4434150030"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-048.webp"},{"id":49,"title":"Fuel Gauge","oems":["390983020","443422038031443422059031","4434220040"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-049.webp"},{"id":50,"title":"Air Pressure Gauge","oems":["390982000","443415044001","4434150080"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-050.webp"},{"id":51,"title":"Air Pressure Gauge","oems":["341982002","443415050901","4434150110"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-051.webp"},{"id":52,"title":"Horn Valve","oems":["390935230","443319032000","4436120510"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-052.webp"},{"id":53,"title":"Closing Cock","oems":["397534050","443612366000","397-534053","443612370803","4436120950"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-053.webp"},{"id":54,"title":"Control Valve","oems":["390530280","443612280001","44361215904436121710"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-054.webp"},{"id":55,"title":"Dewatering Valve","oems":["390530231","443612061702","4436121610"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-055.webp"},{"id":56,"title":"Main Cylinder","oems":["311195010","443611012000","4436110040014436110020"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-056.webp"},{"id":57,"title":"Main Cylinder","oems":["4436110090"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-057.webp"},{"id":58,"title":"Main Cylinder","oems":["4436110100"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-058.webp"},{"id":59,"title":"Bag","oems":["341592801","273124010432","2054391104"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-059.webp"},{"id":60,"title":"Air cylinder","oems":["305530040","443612131000","4436120080"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-060.webp"},{"id":61,"title":"Back Pressure Valve","oems":["390530251","443612081001","4436120810"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-061.webp"},{"id":62,"title":"Two-Way Valve","oems":["730534221","443612361000","4436120500"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-062.webp"},{"id":63,"title":"Bellows spring regulating valve","oems":["341350880","443624015702","4436121470"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-063.webp"},{"id":64,"title":"Regulating Valve","oems":["317770570","443624015700"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-064.webp"},{"id":65,"title":"Cross-Pin","oems":["341200060341200068","442072610034","2072610094"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-065.webp"},{"id":66,"title":"Cross-pin","oems":["9903010920"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-066.webp"},{"id":67,"title":"T1 Rear Axle Shaft","oems":["341320210","442020510274","9921000350"],"category":"Axles & Suspension","image":"assets/tatra/tatra-067.webp"},{"id":68,"title":"T2 Rear Axle Shaft","oems":["341320214","442020510294","20205102949903002310"],"category":"Axles & Suspension","image":"assets/tatra/tatra-068.webp"},{"id":69,"title":"Rear Axle Shaft V12","oems":["341320211","442020510284","9903001250"],"category":"Axles & Suspension","image":"assets/tatra/tatra-069.webp"},{"id":70,"title":"Electromagnetic Valve T1","oems":["340530130","443643034800","4436410310"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-070.webp"},{"id":71,"title":"Electromagnetic Valve T2","oems":["341530131","443643088800","4436410320"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-071.webp"},{"id":72,"title":"Slient Block","oems":["340002281","273511051112442071510314","2071510314"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-072.webp"},{"id":73,"title":"Prismatic Spring","oems":["341712281","273511051142442071510114","2071510114"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-073.webp"},{"id":74,"title":"Silent Block","oems":["340602290","273511161402442071510084","2071510084"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-074.webp"},{"id":75,"title":"Clutch Release Equipment","oems":["4429995130"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-075.webp"},{"id":76,"title":"Release Bearing","oems":["9901008910"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-076.webp"},{"id":77,"title":"Clutch Booster","oems":["4436122230"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-077.webp"},{"id":78,"title":"Manual brake valve","oems":["4436120090"],"category":"Brake Systems","image":"assets/tatra/tatra-078.webp"},{"id":79,"title":"Cabin pump","oems":["3364320260"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-079.webp"},{"id":80,"title":"Hydraulic cylinder HZK MOQ 100pcs","oems":["40-0293802","3364320270"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-080.webp"},{"id":81,"title":"Protective Bag Arctic","oems":["341329820","273124030054","2054391554"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-081.webp"},{"id":82,"title":"Protective Bag Summer","oems":["341329820","442046900024","2046900024"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-082.webp"},{"id":83,"title":"Brake Drum","oems":["341330190","442024110364","2024110364"],"category":"Brake Systems","image":"assets/tatra/tatra-083.webp"},{"id":84,"title":"Brake Drum T163","oems":["301991010","325214098012","2024110444"],"category":"Brake Systems","image":"assets/tatra/tatra-084.webp"},{"id":85,"title":"Wheel rim T815","oems":["8.5-20","317998987","325149800001","2022560254"],"category":"Axles & Suspension","image":"assets/tatra/tatra-085.webp"},{"id":86,"title":"Wheel rim T815","oems":["8.5-20","3251120510"],"category":"Axles & Suspension","image":"assets/tatra/tatra-086.webp"},{"id":87,"title":"Brake Lining","oems":["341393740","278611108200","2050870534"],"category":"Brake Systems","image":"assets/tatra/tatra-087.webp"},{"id":88,"title":"Brake Linning T163","oems":["4439992430"],"category":"Brake Systems","image":"assets/tatra/tatra-088.webp"},{"id":89,"title":"Brake lining","oems":["410x200","4439992440"],"category":"Brake Systems","image":"assets/tatra/tatra-089.webp"},{"id":90,"title":"Air drier T163","oems":["4436121140"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-090.webp"},{"id":91,"title":"Air drier LK8008","oems":["35110140050","4436122060"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-091.webp"},{"id":92,"title":"Air drier insert T163","oems":["9907004690"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-092.webp"},{"id":93,"title":"Air drier","oems":["4436120110"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-093.webp"},{"id":94,"title":"Turbocharger T163 K 36","oems":["4865120130"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-094.webp"},{"id":95,"title":"Turbo-blower HX50W","oems":["3580995","4865120140"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-095.webp"},{"id":96,"title":"Fuel filter","oems":["442900134000","4429001340"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-096.webp"},{"id":97,"title":"Electric fuel pump T163","oems":["4437240120"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-097.webp"},{"id":98,"title":"Valve ABS","oems":["35502100180","443612133000","4436121330"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-098.webp"},{"id":99,"title":"Valve","oems":["1417413047"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-099.webp"},{"id":100,"title":"Control Valve","oems":["Wabco9730010200","4436120570"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-100.webp"},{"id":101,"title":"Control Valve Wabco","oems":["9730112010","35180190200","4436122140"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-101.webp"},{"id":102,"title":"Valve","oems":["Wabco4341006020","4436120780"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-102.webp"},{"id":103,"title":"Control Valve","oems":["Wabco4730170300","4436122150"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-103.webp"},{"id":104,"title":"Pressure Limiting Valve","oems":["Wabco4750150390","4436121310"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-104.webp"},{"id":105,"title":"Two-way valve 434 208 029 0","oems":["4436120850"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-105.webp"},{"id":106,"title":"Stoplight switch","oems":["443400194000","4434001940"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-106.webp"},{"id":107,"title":"T1 Clutch Plate","oems":["341150150","442170535359"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-107.webp"},{"id":108,"title":"T2 Clutch plate","oems":["341150155341150151","442370535036442370535926","4429993140","420/210GSZ"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-108.webp"},{"id":109,"title":"Clutch Disk","oems":["4429995110"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-109.webp"},{"id":110,"title":"Clutch plate T148","oems":["336150120","442070560064"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-110.webp"},{"id":111,"title":"Clutch plate T148","oems":["336150112","442070530254"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-111.webp"},{"id":112,"title":"Lining for Clutch Plate","oems":["341195740","442115565359","9901006360","2786450310"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-112.webp"},{"id":113,"title":"T1 Release Bearing","oems":["341152800","324191520150","3241930010"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-113.webp"},{"id":114,"title":"T2 Release Bearing","oems":["341152181","442370585166324191520170","9901006470"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-114.webp"},{"id":115,"title":"Circuit Breaker","oems":["341915060","443815432020","4438150020"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-115.webp"},{"id":116,"title":"T1 Leaf Spring","oems":["335350003","315226204802","3152313710"],"category":"Axles & Suspension","image":"assets/tatra/tatra-116.webp"},{"id":117,"title":"T2 Leaf Spring","oems":["341350003","442075990544","3152320450"],"category":"Axles & Suspension","image":"assets/tatra/tatra-117.webp"},{"id":118,"title":"Piston and Cylinder","oems":["341000211","442070830104","2070830104"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-118.webp"},{"id":119,"title":"Clutch Booster","oems":["341195013","443613200704","4436121760"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-119.webp"},{"id":120,"title":"Brake Cylinder","oems":["341530053","443612164003","4436124040"],"category":"Brake Systems","image":"assets/tatra/tatra-120.webp"},{"id":121,"title":"Brake Cylinder Rear","oems":["341530061","443612193004","4436124000"],"category":"Brake Systems","image":"assets/tatra/tatra-121.webp"},{"id":122,"title":"Brake cylinder LH","oems":["341530065","443612193017","4436124020"],"category":"Brake Systems","image":"assets/tatra/tatra-122.webp"},{"id":123,"title":"Brake cylinder RH","oems":["341530066","443612193019","4436124050"],"category":"Brake Systems","image":"assets/tatra/tatra-123.webp"},{"id":124,"title":"Clutch shaft","oems":["341150140","442071080484","2071080484"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-124.webp"},{"id":125,"title":"T1 Front Wheel Hub","oems":["341430050","442074011354","2074011354"],"category":"Axles & Suspension","image":"assets/tatra/tatra-125.webp"},{"id":126,"title":"T2 Front Wheel Hub","oems":["341430053","442074011414","9903004710"],"category":"Axles & Suspension","image":"assets/tatra/tatra-126.webp"},{"id":127,"title":"Front Wheel Hub （V12）","oems":["341430051","442074011394","9921001240"],"category":"Axles & Suspension","image":"assets/tatra/tatra-127.webp"},{"id":128,"title":"T1 Rear Wheel Hub","oems":["341330012","442074011334","9921001220"],"category":"Axles & Suspension","image":"assets/tatra/tatra-128.webp"},{"id":129,"title":"T2 Rear Wheel Hub","oems":["341330018","442074011404442000038000","9903002680"],"category":"Axles & Suspension","image":"assets/tatra/tatra-129.webp"},{"id":130,"title":"V12 Rear Wheel Hub","oems":["341330013","442074011364","9903001910"],"category":"Axles & Suspension","image":"assets/tatra/tatra-130.webp"},{"id":131,"title":"Sealing cover for hub","oems":["341332080","442055930424","2055930424"],"category":"Axles & Suspension","image":"assets/tatra/tatra-131.webp"},{"id":132,"title":"Wheel Bolt, front","oems":["341439090","442052381784","2052381784"],"category":"Axles & Suspension","image":"assets/tatra/tatra-132.webp"},{"id":133,"title":"Wheel Bolt, rear","oems":["341339091","442052381794","2052381794"],"category":"Axles & Suspension","image":"assets/tatra/tatra-133.webp"},{"id":134,"title":"Nut","oems":["M22*2","341990170","311129996903","4431136290"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-134.webp"},{"id":135,"title":"Elastic ring","oems":["336990090","442050660274","2050660274"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-135.webp"},{"id":136,"title":"Wheel bolt","oems":["2052381794"],"category":"Axles & Suspension","image":"assets/tatra/tatra-136.webp"},{"id":137,"title":"T2 Torsion Bar Rh","oems":["336451371","442028660474","4429250300","2028660474","2028660434"],"category":"Axles & Suspension","image":"assets/tatra/tatra-137.webp"},{"id":138,"title":"T2 Torsion Bar Lh","oems":["336451370","442028660464","4429250290","2028660464","2028660444"],"category":"Axles & Suspension","image":"assets/tatra/tatra-138.webp"},{"id":139,"title":"T1 Ball Joint Lh","oems":["341500443","442073410784"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-139.webp"},{"id":140,"title":"T1Ball Joint Rh","oems":["341500442","442073410774"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-140.webp"},{"id":141,"title":"T1 Hanger Yoke Lh","oems":["341352520","442075720754","2075720754"],"category":"Axles & Suspension","image":"assets/tatra/tatra-141.webp"},{"id":142,"title":"T1 Hanger Yoke Rh","oems":["341352522","442075720764","2075720764"],"category":"Axles & Suspension","image":"assets/tatra/tatra-142.webp"},{"id":143,"title":"T2 Hanger Yoke Lh","oems":["341352525","442075720964","2075720964"],"category":"Axles & Suspension","image":"assets/tatra/tatra-143.webp"},{"id":144,"title":"T2 Hanger Yoke Rh","oems":["341352526","442075720974","2075720974"],"category":"Axles & Suspension","image":"assets/tatra/tatra-144.webp"},{"id":145,"title":"Bisection Distribudor","oems":["341650441","336444312005","3364320230"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-145.webp"},{"id":146,"title":"Piston Ring","oems":["326972022893","326972024274","327972522278","3192320560","3192320550","3192320570"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-146.webp"},{"id":147,"title":"Conecting Head","oems":["390530320","443612386001","4436121090"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-147.webp"},{"id":148,"title":"Conecting Head","oems":["397530324","443612386806","4436121070"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-148.webp"},{"id":149,"title":"Connecting Head","oems":["390530322","443612387700","4436121030"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-149.webp"},{"id":150,"title":"Direction Lamp, front","oems":["341922000","443312177103","4433120220","628-08/630-08"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-150.webp"},{"id":151,"title":"Direction Lamp, Side","oems":["341922001","443312514103","4433120220","628-08/630-08"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-151.webp"},{"id":152,"title":"Front flasher over","oems":["341922261","321821015317","634-04/636-04"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-152.webp"},{"id":153,"title":"T815-1 Engine 10 CylinderTATRA S1","oems":["3-929-16","341001007","442070990864"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-153.webp"},{"id":154,"title":"T815-1 Engine 10 CylinderTATRA VE","oems":["3-929-34","341001008","442070990884"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-154.webp"},{"id":155,"title":"T815-2 Engine 10 CylinderT S1","oems":["3A-929-16","341001018","442070991134","2070991134"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-155.webp"},{"id":156,"title":"T815-2 Engine 10 CylinderT VE","oems":["3A-929-34","341001017","442070991154","2070991154"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-156.webp"},{"id":157,"title":"Engine 8","oems":["CylinderT3B-928.10/484","2070005024"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-157.webp"},{"id":158,"title":"Engine 12 do V","oems":["CylinderT3-930-30","341000005","442070990214","81000"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-158.webp"},{"id":159,"title":"Engine 12 od","oems":["CylinderT3-930-37","341001011","442070990944","81001V"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-159.webp"},{"id":160,"title":"Gearbox","oems":["341200002","442071002104","2071002104"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-160.webp"},{"id":161,"title":"Trensfer Gearbox","oems":["341230005","442072781384","2072781384"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-161.webp"},{"id":162,"title":"Gearbox housing","oems":["341200020","442071050394","2071050394"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-162.webp"},{"id":163,"title":"Housing","oems":["341230018","442072781784"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-163.webp"},{"id":164,"title":"Front Axle T1","oems":["341410001","442073001074","2073001074"],"category":"Axles & Suspension","image":"assets/tatra/tatra-164.webp"},{"id":165,"title":"Front Axle T2","oems":["341410045","442073001604","2073001604"],"category":"Axles & Suspension","image":"assets/tatra/tatra-165.webp"},{"id":166,"title":"Rear Axle 1st T1","oems":["341310021","442072501614","9921000980"],"category":"Axles & Suspension","image":"assets/tatra/tatra-166.webp"},{"id":167,"title":"Rear Axle 1st T2","oems":["341311020","442072502344"],"category":"Axles & Suspension","image":"assets/tatra/tatra-167.webp"},{"id":168,"title":"Rear Axle 2nd T1","oems":["341310031","442075201634","9921000990"],"category":"Axles & Suspension","image":"assets/tatra/tatra-168.webp"},{"id":169,"title":"Rear Axle 2nd T2","oems":["341311021","442072502354"],"category":"Axles & Suspension","image":"assets/tatra/tatra-169.webp"},{"id":170,"title":"Valve Insert","oems":["341020471","442050312144","2050312584"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-170.webp"},{"id":171,"title":"Bush","oems":["341008010","442050312304"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-171.webp"},{"id":172,"title":"Bush","oems":["341008015","2075190654"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-172.webp"},{"id":173,"title":"Bush","oems":["341008012","442050312314"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-173.webp"},{"id":174,"title":"Bush","oems":["341008016","2075190664"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-174.webp"},{"id":175,"title":"T1 Fuel Return Tube","oems":["341060155341060158","442076631774442076631494"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-175.webp"},{"id":176,"title":"T2 Return Tube","oems":["341061111","442076632074","2076632074"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-176.webp"},{"id":177,"title":"Shaft Sealing","oems":["150*180*15","959150215951150315","273525007321","2735213060"],"category":"Axles & Suspension","image":"assets/tatra/tatra-177.webp"},{"id":178,"title":"Lower Lid","oems":["341002071","442010150184","2010150184"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-178.webp"},{"id":179,"title":"Gasket for Lower Lid 0.5mm","oems":["341090905","627814358050442054032634"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-179.webp"},{"id":180,"title":"Dipstick Guide","oems":["341004190","442076612344"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-180.webp"},{"id":181,"title":"Dipstick Guide","oems":["341044147","2076612154"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-181.webp"},{"id":182,"title":"Dipstick","oems":["341000500","442070460484"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-182.webp"},{"id":183,"title":"Dipstick","oems":["341040392","2070460424"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-183.webp"},{"id":184,"title":"Crankshaft V12","oems":["341010013","442070060884","2070060884"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-184.webp"},{"id":185,"title":"Part of crankshaft V12","oems":["341010052","442010200764","2070060964"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-185.webp"},{"id":186,"title":"Crankshaft V10","oems":["341010010","442070060734","2070060734","2070061094"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-186.webp"},{"id":187,"title":"Front Pin","oems":["341010042","442070060714","2010201034"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-187.webp"},{"id":188,"title":"Part Of Crankshaft 1-5","oems":["341010081","442010200694","2070060924"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-188.webp"},{"id":189,"title":"Part Of Crankshaft 2-4","oems":["341010051","442010200714","2070060914"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-189.webp"},{"id":190,"title":"Part Of Crankshaft (middle)","oems":["341010050","442010200704","2070060934"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-190.webp"},{"id":191,"title":"Crankshaft Pin","oems":["341010084","442010200894","2010200894"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-191.webp"},{"id":192,"title":"Bearing","oems":["969401700","324496102700","3247910200"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-192.webp"},{"id":193,"title":"Torsional Damper","oems":["341010360","442070290084","4436120160"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-193.webp"},{"id":194,"title":"Drive Gear Wheel","oems":["341020900","442012210124","2012210124"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-194.webp"},{"id":195,"title":"Upper Thrust Bearing","oems":["341010121","323434181623323434181743","3231413710"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-195.webp"},{"id":196,"title":"Lower Thrust Bearing","oems":["341010120","323434181643323434181763","3231413750","3231423730"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-196.webp"},{"id":197,"title":"Cover To Thrust Bearing","oems":["341002041","442055820454","2055820454"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-197.webp"},{"id":198,"title":"Gear Rim","oems":["341010331","442010240154","20102401542010240164"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-198.webp"},{"id":199,"title":"Sealing ring","oems":["341018530","442050762444","2050762444"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-199.webp"},{"id":200,"title":"Gear Pump","oems":["341500610","336152158002","3361460390"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-200.webp"},{"id":201,"title":"Oil Filter","oems":["312040201","443745029800","4437452070"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-201.webp"},{"id":202,"title":"Rotor","oems":["335040251","443919760908","4439100250"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-202.webp"},{"id":203,"title":"Oil Pump T1","oems":["341040003","442070200204","2070200264"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-203.webp"},{"id":204,"title":"Oil Pump T2 VE","oems":["341040007","442070200264","2070200264"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-204.webp"},{"id":205,"title":"Oil Cooler","oems":["341040402","443512225103","4435120260"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-205.webp"},{"id":206,"title":"Oil Cooler front","oems":["340040402","443512213109","4435120240"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-206.webp"},{"id":207,"title":"Oil Filter","oems":["341040201341040202","442070850334","2070850394"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-207.webp"},{"id":208,"title":"Cartrige","oems":["341040230341040233","627936510305","4429003550"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-208.webp"},{"id":209,"title":"Camshaft T1","oems":["341020300","442011520484"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-209.webp"},{"id":210,"title":"Camshaft T2","oems":["341020303","442011520514","2011520514"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-210.webp"},{"id":211,"title":"Valve Lifter","oems":["341020480","442070120064","2070120064"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-211.webp"},{"id":212,"title":"Valve Lifter","oems":["2070120124"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-212.webp"},{"id":213,"title":"Tappet","oems":["341020500","442011600094","2011600094"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-213.webp"},{"id":214,"title":"Protective Tube","oems":["335020530","442076630034","2076630034"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-214.webp"},{"id":215,"title":"Oil return tube","oems":["335024181","442076630064","2076630064"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-215.webp"},{"id":216,"title":"Rocker Support","oems":["341020431","442011000094","2011000094"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-216.webp"},{"id":217,"title":"Intake Valve Rocker","oems":["341020411","442070150284","2070150284"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-217.webp"},{"id":218,"title":"Exhaust Valve Rocker","oems":["341020421","442070150304","2070150304"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-218.webp"},{"id":219,"title":"Connecting Rod Bolt","oems":["341019091","442052381754","2052381754"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-219.webp"},{"id":220,"title":"Cylinder","oems":["341000200","442010010144","2010010144"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-220.webp"},{"id":221,"title":"Piston","oems":["341090202","319231408280","3192310290"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-221.webp"},{"id":222,"title":"Piston Abnormal","oems":["319231408282","319231408284","9901006370","9901006380"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-222.webp"},{"id":223,"title":"Gudgeon Pin","oems":["908451102","319237451020","2050050094"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-223.webp"},{"id":224,"title":"Piston Ring","oems":["326972022893","326972024274","327972522278","3192320560","3192320550","3192320570"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-224.webp"},{"id":225,"title":"Connecting Rod","oems":["341010400","442070070254","2070070254"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-225.webp"},{"id":226,"title":"Bush","oems":["341018010","323112913053","2050310204"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-226.webp"},{"id":227,"title":"Con. Rod Bushing STD","oems":["341010481341010482","323462739020323414881843","3231413620","6039-05/00"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-227.webp"},{"id":228,"title":"Con. Rod Bushing","oems":["0.10","341010494","323041488442","9901006230","6039-05/1"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-228.webp"},{"id":229,"title":"Con. Rod Bushing","oems":["0.20","341010495","323041488443","9901006240","6039-05/2"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-229.webp"},{"id":230,"title":"Con. Rod Bushing","oems":["0.30","341010496","323041488444","9901006250","6039-05/3"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-230.webp"},{"id":231,"title":"Con. Rod Bushing","oems":["0.40","341010497","323041488445","9901006260","6039-05/4"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-231.webp"},{"id":232,"title":"Cylinder head sealing ring","oems":["336028530","442010100014442010100024","201010002431923207503192220750"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-232.webp"},{"id":233,"title":"Cylinder Head","oems":["341020011","442070310584","2070310834"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-233.webp"},{"id":234,"title":"Valve gasket","oems":["341028541","273111603000","2731116030"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-234.webp"},{"id":235,"title":"Exhaust Valve Guide","oems":["341020203","442012610374","2012610344"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-235.webp"},{"id":236,"title":"Intake Valve Seat","oems":["341020202","442012610344","2012610474"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-236.webp"},{"id":237,"title":"Intake Valve","oems":["341020240","442012090204","2012090204"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-237.webp"},{"id":238,"title":"Exhaust Valve","oems":["341020261","442012090314","2012090314"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-238.webp"},{"id":239,"title":"Exhaust manifold front","oems":["341050605","442011651194","2011651194"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-239.webp"},{"id":240,"title":"Exhaust manifold central","oems":["341050603","442011651114","2011651114"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-240.webp"},{"id":241,"title":"Exhaust manifold rear","oems":["341050600","442011650734","2011650734"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-241.webp"},{"id":242,"title":"Sealing ring(Piston ring)","oems":["800075530","326010001610","3192320650"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-242.webp"},{"id":243,"title":"Exhaust manifold front","oems":["341050604","442011651184","2011651184"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-243.webp"},{"id":244,"title":"Exhaust manifold central","oems":["341050602","442011651104","2011651104"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-244.webp"},{"id":245,"title":"Exhaust manifold rear","oems":["341050601","442011650754"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-245.webp"},{"id":246,"title":"Rear exhaust manifold, LH","oems":["341050650","442011651834","2011651834"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-246.webp"},{"id":247,"title":"Intake manifold gasket","oems":["335095916","627833108100442054030834","2054030834"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-247.webp"},{"id":248,"title":"Exhaust manifold gasket","oems":["341095840341095850","278412201000442054070144","2054070144"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-248.webp"},{"id":249,"title":"Screw","oems":["335029092","442052380324","2052380324"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-249.webp"},{"id":250,"title":"Cylinder Head Cover","oems":["341020060","442010050084","2010050084"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-250.webp"},{"id":251,"title":"Cylinder Head Cover T2","oems":["341020061","442010050094","2010050094"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-251.webp"},{"id":252,"title":"Gasket","oems":["341092800","273114997904442054160624","2054020064"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-252.webp"},{"id":253,"title":"Sensor","oems":["341982410","443429108989443429108981","4434290140"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-253.webp"},{"id":254,"title":"Cylinder head compressor φ90","oems":["316100040","443919373106","9901000400"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-254.webp"},{"id":255,"title":"Seat plate φ90","oems":["316104581","443919606301"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-255.webp"},{"id":256,"title":"Cylinder dia 90 φ90","oems":["316100030","443915660514","9901000370"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-256.webp"},{"id":257,"title":"Piston dia 90 φ90","oems":["316190200","319231206950","9901000160"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-257.webp"},{"id":258,"title":"Piston ring dia 90 φ90","oems":["844490540","327971511831"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-258.webp"},{"id":259,"title":"Gudgeon pin φ90","oems":["908200058","441050051926"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-259.webp"},{"id":260,"title":"Connecting rod φ90","oems":["341100400","443919690148","9901000080"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-260.webp"},{"id":261,"title":"Crankshaft φ90","oems":["341100061","443915930136","9901000070"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-261.webp"},{"id":262,"title":"Housing cover φ90","oems":["341102080","443915681403"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-262.webp"},{"id":263,"title":"Compressor box φ90","oems":["341100022","443915680134"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-263.webp"},{"id":264,"title":"Cylinder head compressor 80","oems":["340100040","443915660112","4439100060"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-264.webp"},{"id":265,"title":"Cylinder dia 80","oems":["340100030","443915660510","4439100070"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-265.webp"},{"id":266,"title":"Seat plate","oems":["340100200","443919810203","4439100260"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-266.webp"},{"id":267,"title":"Piston dia 80","oems":["336190200","319231206060","3192342000"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-267.webp"},{"id":268,"title":"Piston ring dia 80","oems":["850080545834080525","327160601682327971011679","32716000103279700110"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-268.webp"},{"id":269,"title":"Crankshaft","oems":["340100060","443915930115","4439100110"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-269.webp"},{"id":270,"title":"Connecting rod","oems":["336100400","443919690148","9901000080"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-270.webp"},{"id":271,"title":"Fan drive","oems":["2070400734"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-271.webp"},{"id":272,"title":"Hydraulic Clutch","oems":["341050900","442079250264","2079250264"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-272.webp"},{"id":273,"title":"Fan Shaft","oems":["341050450","442070750334","2070750334"],"category":"Axles & Suspension","image":"assets/tatra/tatra-273.webp"},{"id":274,"title":"Valve","oems":["341054240","442070380024"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-274.webp"},{"id":275,"title":"Injection Valve T1","oems":["341966050","443979572681"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-275.webp"},{"id":276,"title":"Injection Valve T2","oems":["341966054","443979572688","4437130400"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-276.webp"},{"id":277,"title":"Neck for Injector","oems":["341966400","443972626478","4439700320"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-277.webp"},{"id":278,"title":"Injection pump T1","oems":["341961011","443711011549"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-278.webp"},{"id":279,"title":"Injection pump T2","oems":["341961075","443711011493","4437112260"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-279.webp"},{"id":280,"title":"Electromagnetic Valve（Injection pummp)","oems":["341054242","358821420120","3588210010"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-280.webp"},{"id":281,"title":"Guide","oems":["341060210","442076612334","2076612334"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-281.webp"},{"id":282,"title":"Delivery Pump","oems":["336965011","443979642239","9901005190"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-282.webp"},{"id":283,"title":"Output Regulator RV 15A","oems":["341962011","443979612874","9901005150","300/1100-","2879"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-283.webp"},{"id":284,"title":"Injection Advance Device AM 4A","oems":["341964011","443979681335","9901005210","4P-1338"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-284.webp"},{"id":285,"title":"Oil pressure switch","oems":["353094202","443852042000"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-285.webp"},{"id":286,"title":"Belt","oems":["942075012","272742700750"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-286.webp"},{"id":287,"title":"Alternator T815-1","oems":["336902011","443113516350"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-287.webp"},{"id":288,"title":"Alternator T815-2","oems":["390902012","443113516830","9901005240"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-288.webp"},{"id":289,"title":"T1 Voltage Regulator","oems":["341907051","443116419860"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-289.webp"},{"id":290,"title":"T2 Voltage Regulator","oems":["443930134731","9901006610"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-290.webp"},{"id":291,"title":"Carrier of diodes","oems":["360901500","443930131450"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-291.webp"},{"id":292,"title":"Rectifying block","oems":["115901500","443930133700","9901002700"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-292.webp"},{"id":293,"title":"Switch T1","oems":["390905292","443936800490"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-293.webp"},{"id":294,"title":"Switch T2","oems":["341905010","443930159740","9901004370"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-294.webp"},{"id":295,"title":"T1 Starter","oems":["341905000","443115187724"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-295.webp"},{"id":296,"title":"T2 Starter","oems":["341905002","443115187340","4431150230"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-296.webp"},{"id":297,"title":"Needle bush","oems":["969640355","324591312900","3245920010"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-297.webp"},{"id":298,"title":"Clutch housing","oems":["341150011","442016100234","2016100324"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-298.webp"},{"id":299,"title":"Bag","oems":["341592801","273124010432442054391104","2054391104"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-299.webp"},{"id":300,"title":"Pin for main cylinder","oems":["341526020","442050060314","4426002470"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-300.webp"},{"id":301,"title":"Delivery Valve","oems":["397969920341969910","443978704106443978704317","9901000450"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-301.webp"},{"id":302,"title":"Valve Plunger T815-1 A9K∣07","oems":["341969100","443978710107"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-302.webp"},{"id":303,"title":"Valve Plunger T815-2 A9K∣S","oems":["341969101","443978710202","9901000440"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-303.webp"},{"id":304,"title":"Valve Plunger 8*8 A9∣K","oems":["336969102","443978710106","4439700610"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-304.webp"},{"id":305,"title":"Nozzle T815-1 DOP 140S","oems":["341967150","443978584369","435-4369"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-305.webp"},{"id":306,"title":"Nozzle T815-2 DOP 134S","oems":["341967155","443978584102","9901002270","440-4102"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-306.webp"},{"id":307,"title":"Nozzle 12 Cylinder YJ ZCK 150S 435","oems":["341967151","443978584368","4439700580"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-307.webp"},{"id":308,"title":"Propeller Shaft","oems":["341200051341201050","442072000684442072000724","2072000724"],"category":"Axles & Suspension","image":"assets/tatra/tatra-308.webp"},{"id":309,"title":"Drive Shaft T1","oems":["341210010","442016800324"],"category":"Axles & Suspension","image":"assets/tatra/tatra-309.webp"},{"id":310,"title":"Drive Shaft T2","oems":["341210012","442071030364","2071030364"],"category":"Axles & Suspension","image":"assets/tatra/tatra-310.webp"},{"id":311,"title":"Layshaft","oems":["341210121","442016840124","2016840124"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-311.webp"},{"id":312,"title":"Driven Shaft","oems":["341210030","442071080444","2071080444"],"category":"Axles & Suspension","image":"assets/tatra/tatra-312.webp"},{"id":313,"title":"Drive Gear","oems":["341210145","442071040974","341-211140"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-313.webp"},{"id":314,"title":"Drive Gear","oems":["341210144","442071040984"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-314.webp"},{"id":315,"title":"Reverse Run Gear","oems":["341210220","442017270114","2017270114"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-315.webp"},{"id":316,"title":"Gear of speed 1","oems":["341210050","442017220264","2017220264"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-316.webp"},{"id":317,"title":"Gear of Speed 2","oems":["341210061341210064","442017220614","2017220614"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-317.webp"},{"id":318,"title":"Gear of Speed 3","oems":["341210074341210072","442071040964442017220484"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-318.webp"},{"id":319,"title":"Geal of Speed 4","oems":["341210081","442071040954"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-319.webp"},{"id":320,"title":"Gear of Speed 5","oems":["341210091","442071040944"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-320.webp"},{"id":321,"title":"Connecting gear 3","oems":["341211323","442016790564","2016790564"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-321.webp"},{"id":322,"title":"Connecting gear 4","oems":["341211322","442016790554","2016790554"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-322.webp"},{"id":323,"title":"Gear shift mechanism housing","oems":["341220614","442071720404","2071720404"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-323.webp"},{"id":324,"title":"Connecting Sleeve 1-R","oems":["341212151","442016600514","2016600514"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-324.webp"},{"id":325,"title":"Synchro-Mesh 2-3","oems":["341210305341210306","442071480354","2071480354"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-325.webp"},{"id":326,"title":"Synchro-mesh 4-5","oems":["341210304341210308","442071480344","2071480344"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-326.webp"},{"id":327,"title":"Synchro-mesh h-l","oems":["341210307","442071480364"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-327.webp"},{"id":328,"title":"Synchro-Mesh Cone 2-3","oems":["341210324341210328","442016790634","2016790634"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-328.webp"},{"id":329,"title":"Synchro-mesh cone h-l 4-5","oems":["341210323341210327","442016790644","2016790644"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-329.webp"},{"id":330,"title":"connecting sleeve h-l 4-5","oems":["341210403","442016600674","2016600674"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-330.webp"},{"id":331,"title":"Pump Housing","oems":["341200090341200092","442070160204","2070160204"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-331.webp"},{"id":332,"title":"Oil Pump T1","oems":["341120202","336146466108"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-332.webp"},{"id":333,"title":"Oil Pump T2","oems":["341120212","336146158461","9921001760"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-333.webp"},{"id":334,"title":"Power take-off drive T2","oems":["341141202","442071700714","2071700714"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-334.webp"},{"id":335,"title":"Housing","oems":["341410110","442072510724"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-335.webp"},{"id":336,"title":"Housing","oems":["341411111","442072511224","2072511224"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-336.webp"},{"id":337,"title":"Clamping Ring","oems":["335328610","442054490094","2054490394"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-337.webp"},{"id":338,"title":"Clamping Ring","oems":["335328611341328610","442054490334","2054490404"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-338.webp"},{"id":339,"title":"Spacer Bush","oems":["341328090","442050360524","2050360524"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-339.webp"},{"id":340,"title":"Alf-Axle Lh T1","oems":["341420010","442072531284"],"category":"Axles & Suspension","image":"assets/tatra/tatra-340.webp"},{"id":341,"title":"Alf-Axle Lh T2","oems":["341421013","442072532234","2072532234"],"category":"Axles & Suspension","image":"assets/tatra/tatra-341.webp"},{"id":342,"title":"Half-Axle Rh T1","oems":["341420020","442072531474"],"category":"Axles & Suspension","image":"assets/tatra/tatra-342.webp"},{"id":343,"title":"Half-Axle Rh T2","oems":["341421023","442072532244","2072532244"],"category":"Axles & Suspension","image":"assets/tatra/tatra-343.webp"},{"id":344,"title":"Pin","oems":["341326082","442050230434","2050230434"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-344.webp"},{"id":345,"title":"Bush","oems":["341322580341328062","323424855163","9903001330"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-345.webp"},{"id":346,"title":"Packing Piece","oems":["341429750","442050920854","2050920854"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-346.webp"},{"id":347,"title":"Bush Of Bearings","oems":["341318060","442050410234","2050410234"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-347.webp"},{"id":348,"title":"Spacer Bush","oems":["341318062","442050311594","2050311594"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-348.webp"},{"id":349,"title":"Adjusting Nut","oems":["341319351","442020870164","2020870164"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-349.webp"},{"id":350,"title":"Lock washer","oems":["341319653","442051050174","2051050174"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-350.webp"},{"id":351,"title":"Propeller Shaft","oems":["341310380","442020030834","2020030834"],"category":"Axles & Suspension","image":"assets/tatra/tatra-351.webp"},{"id":352,"title":"Articulated Shaft","oems":["341420160","442073150544","4420711020"],"category":"Axles & Suspension","image":"assets/tatra/tatra-352.webp"},{"id":353,"title":"T2 Articulated Shaft","oems":["341421160","442073150564","442073150664","442073150574","2073150664"],"category":"Axles & Suspension","image":"assets/tatra/tatra-353.webp"},{"id":354,"title":"Cross Articulated Shaft","oems":["341420211","442021270354442021270474","20212703542021270474"],"category":"Axles & Suspension","image":"assets/tatra/tatra-354.webp"},{"id":355,"title":"Driven Articulated Shaft","oems":["341420220341420222","442021270424442021270444","20212704242021270444"],"category":"Axles & Suspension","image":"assets/tatra/tatra-355.webp"},{"id":356,"title":"Bush","oems":["341428010","442050311604","2050311604"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-356.webp"},{"id":357,"title":"Cross pin for propellar shaft","oems":["341200061","442072610034","4420710640"],"category":"Axles & Suspension","image":"assets/tatra/tatra-357.webp"},{"id":358,"title":"Cross-Pin","oems":["336426072","442050210224442072610144","2072610144"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-358.webp"},{"id":359,"title":"Central Part","oems":["336420181","442019010084","2019010084"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-359.webp"},{"id":360,"title":"Protective Basket Lh","oems":["336312134","442078660264","2078660264"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-360.webp"},{"id":361,"title":"Protective Basket Rh","oems":["336312135","442078660274","2078660274"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-361.webp"},{"id":362,"title":"Disk Gear Hub","oems":["341412201","442072680414"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-362.webp"},{"id":363,"title":"T2 Disk Gear Hub","oems":["341412201","442072680414","2072680414"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-363.webp"},{"id":364,"title":"Lock Nut","oems":["341329350","442052570854","2052570854"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-364.webp"},{"id":365,"title":"Adjusting Bush","oems":["341328091","442075190324","2075190324"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-365.webp"},{"id":366,"title":"Adjusting Nut","oems":["341329351","442020850064","2020850064"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-366.webp"},{"id":367,"title":"Slotted nut","oems":["341339350","442052571334","2052571334"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-367.webp"},{"id":368,"title":"Set washer","oems":["335339660","442051190084","2051190084"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-368.webp"},{"id":369,"title":"Lock nut","oems":["442052670064","2052670064","T000767"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-369.webp"},{"id":370,"title":"Spacer","oems":["341338530","442020870244","2020870244"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-370.webp"},{"id":371,"title":"Covering sheet","oems":["341322110","442050990854","2050990854"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-371.webp"},{"id":372,"title":"Run-In Gearing Lh","oems":["341310312","442072850374","442072850384","442072850714","2072850714"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-372.webp"},{"id":373,"title":"Run-In Gearing Rh","oems":["341310311","442012850384","442072850524","442072850724","2072850724"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-373.webp"},{"id":374,"title":"Bush","oems":["341318061","442050410244","2050410244"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-374.webp"},{"id":375,"title":"King Pin Lh","oems":["341420430","442073011424"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-375.webp"},{"id":376,"title":"King Pin Rh","oems":["341420440","442073011414"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-376.webp"},{"id":377,"title":"T2 King Pin Lh","oems":["341421431","442073011594"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-377.webp"},{"id":378,"title":"T2 King Pin Rh","oems":["341421441","442073101604"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-378.webp"},{"id":379,"title":"Bearing","oems":["966491030966491001","324592491072","9903006130","4910"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-379.webp"},{"id":380,"title":"Brake Cam Lh","oems":["341330163","442024710434","20247104349903005700"],"category":"Brake Systems","image":"assets/tatra/tatra-380.webp"},{"id":381,"title":"Brake Cam Rh","oems":["341330164","442024710444","20247104449903005710"],"category":"Brake Systems","image":"assets/tatra/tatra-381.webp"},{"id":382,"title":"Suppurting Socket","oems":["336426251","442050270074","2050270074"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-382.webp"},{"id":383,"title":"Brake Cam Lever Lh","oems":["341430175","442074670504","2074670504"],"category":"Brake Systems","image":"assets/tatra/tatra-383.webp"},{"id":384,"title":"Brake Cam Lever Rh","oems":["341430174","442074670494","20746704949903005730"],"category":"Brake Systems","image":"assets/tatra/tatra-384.webp"},{"id":385,"title":"Rear Brake Cam Lever Lh","oems":["341330175","442074670514442071115000","2074670514"],"category":"Brake Systems","image":"assets/tatra/tatra-385.webp"},{"id":386,"title":"Rear Brake Cam Lever Rh","oems":["341330176","442074670524442070589000","2074670524"],"category":"Brake Systems","image":"assets/tatra/tatra-386.webp"},{"id":387,"title":"Front Bracket Lh T1","oems":["341452421","442030620284"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-387.webp"},{"id":388,"title":"Front Bracket Lh T2","oems":["336352424","442030620194","2030620194"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-388.webp"},{"id":389,"title":"Front Bracket Rh T1","oems":["341452420","442030620274"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-389.webp"},{"id":390,"title":"Front Bracket Rh T2","oems":["336352425","442030620184","2030620184"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-390.webp"},{"id":391,"title":"Torsion Bar Arm Lh T1","oems":["341450360","442030580134"],"category":"Axles & Suspension","image":"assets/tatra/tatra-391.webp"},{"id":392,"title":"Torsion Bar Arm Lh T2","oems":["341450364","442030580214","2030580214"],"category":"Axles & Suspension","image":"assets/tatra/tatra-392.webp"},{"id":393,"title":"Torsion Bar Arm Rh T1","oems":["341450361","442030580144"],"category":"Axles & Suspension","image":"assets/tatra/tatra-393.webp"},{"id":394,"title":"Torsion Bar Arm Rh T2","oems":["341450365","442030580224","2030580224"],"category":"Axles & Suspension","image":"assets/tatra/tatra-394.webp"},{"id":395,"title":"Lens","oems":["336356290","442051500254","2051500254"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-395.webp"},{"id":396,"title":"Pin","oems":["341456010","442050030454","4426002380"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-396.webp"},{"id":397,"title":"Hinge","oems":["335453510","442031510024","2031510024"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-397.webp"},{"id":398,"title":"Hinge","oems":["336606374","442031510134","2031510134"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-398.webp"},{"id":399,"title":"Hinge","oems":["336606375","442031510144","2031510144"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-399.webp"},{"id":400,"title":"Hinge","oems":["336606376","442031510154","2031510154"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-400.webp"},{"id":401,"title":"T2 Hinge A 234MM","oems":["341452510","442031510174","2031510174","330-27"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-401.webp"},{"id":402,"title":"T2 Hinge B 250MM","oems":["341452511","442031510184","2031510184","330-28"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-402.webp"},{"id":403,"title":"T2 Hinge C 266MM","oems":["341452512","442031510194","2031510194","330-29"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-403.webp"},{"id":404,"title":"T2 Hinge D 282MM","oems":["341452513","442031510204","2031510204","330-30"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-404.webp"},{"id":405,"title":"Brake Shoe","oems":["341330140341330142","442074560314442074560494","2074560494"],"category":"Brake Systems","image":"assets/tatra/tatra-405.webp"},{"id":406,"title":"Bush for Brake Shoe","oems":["109428011","323251025262","3232500010"],"category":"Brake Systems","image":"assets/tatra/tatra-406.webp"},{"id":407,"title":"Roller","oems":["340332800","442050300064","2050300064"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-407.webp"},{"id":408,"title":"Stacer Ling T1","oems":["341438510","442050710224"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-408.webp"},{"id":409,"title":"Stacer Ling T2","oems":["341438511","442050710264","2050710264"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-409.webp"},{"id":410,"title":"Front Back-Bone Tube","oems":["341400023341401020","442072022164","2072022164"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-410.webp"},{"id":411,"title":"Differential","oems":["341410171341410173","442072700554442072700594","2072700594"],"category":"Axles & Suspension","image":"assets/tatra/tatra-411.webp"},{"id":412,"title":"Balancing Gear","oems":["341410260","442020720294","2020720294"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-412.webp"},{"id":413,"title":"Control Cylinder","oems":["341410610","442075320134","2075320134"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-413.webp"},{"id":414,"title":"Spring","oems":["335338120","315115001150442050520164","2050520164"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-414.webp"},{"id":415,"title":"Hinge D","oems":["336606376","442031510154"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-415.webp"},{"id":416,"title":"Front Drive Shaft","oems":["341400110","442018810734","2018810734"],"category":"Axles & Suspension","image":"assets/tatra/tatra-416.webp"},{"id":417,"title":"Balancing Gear","oems":["341310260341310262","442020720264442020720374","2020720264"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-417.webp"},{"id":418,"title":"Differential S1","oems":["3.10-02","341310170341310175","442072700584"],"category":"Axles & Suspension","image":"assets/tatra/tatra-418.webp"},{"id":419,"title":"Differential VE","oems":["3.10-02","341310172","442072700504"],"category":"Axles & Suspension","image":"assets/tatra/tatra-419.webp"},{"id":420,"title":"Balancing Gear","oems":["341310261341310263","442020720254442020720384","2020720254"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-420.webp"},{"id":421,"title":"Shifter Fork","oems":["341312920","442017410614","2017410614"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-421.webp"},{"id":422,"title":"Differential","oems":["341310171341310176","442072700414442072700644","2072700644"],"category":"Axles & Suspension","image":"assets/tatra/tatra-422.webp"},{"id":423,"title":"Central Gear","oems":["341310270","442020710414","2020710414"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-423.webp"},{"id":424,"title":"Axle differential S1","oems":["341410181","442072660444"],"category":"Axles & Suspension","image":"assets/tatra/tatra-424.webp"},{"id":425,"title":"Rear Bac-Bone Tube","oems":["341300022","442072021954"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-425.webp"},{"id":426,"title":"Control Cylinder","oems":["341310610","442075320124","2075320124"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-426.webp"},{"id":427,"title":"First Rear-Axle Housing","oems":["341310110","442072510734"],"category":"Axles & Suspension","image":"assets/tatra/tatra-427.webp"},{"id":428,"title":"Protective Basket","oems":["336312133","442078660254","2078660254"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-428.webp"},{"id":429,"title":"T1 Rear Half-Axle Lh","oems":["341320011","442072531984"],"category":"Axles & Suspension","image":"assets/tatra/tatra-429.webp"},{"id":430,"title":"T1 Rear Half-Axle Rh","oems":["341320010","442072531974"],"category":"Axles & Suspension","image":"assets/tatra/tatra-430.webp"},{"id":431,"title":"T2Rear Half-Axle Lh","oems":["341321021","442072532284"],"category":"Axles & Suspension","image":"assets/tatra/tatra-431.webp"},{"id":432,"title":"T2 Rear Half-Axle Rh","oems":["341320029","442072532274"],"category":"Axles & Suspension","image":"assets/tatra/tatra-432.webp"},{"id":433,"title":"Connecting Part","oems":["341300210341301216","442075600464442075600864","2075600864"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-433.webp"},{"id":434,"title":"Clamping Pad","oems":["336350460","442031580054","2031580054"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-434.webp"},{"id":435,"title":"Glide block","oems":["335607281","442031840014","2031840014"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-435.webp"},{"id":436,"title":"Lens","oems":["335357291","442051500344","336-356291","2051500344","4425550280"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-436.webp"},{"id":437,"title":"Lock Yoke","oems":["335352561","442075720074","2075720074"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-437.webp"},{"id":438,"title":"Lock","oems":["341352560","341352561","341452560","442075720664","442075720804","442075720794","2075720794"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-438.webp"},{"id":439,"title":"Cross-Girder","oems":["341600295","442075571534","2075571534"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-439.webp"},{"id":440,"title":"Central Propeller Shaft","oems":["341300110","442018810744","2018810744"],"category":"Axles & Suspension","image":"assets/tatra/tatra-440.webp"},{"id":441,"title":"T1 Spring Yoke","oems":["336350410","442031570144"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-441.webp"},{"id":442,"title":"T2 Spring Yoke","oems":["341350411","442031570454"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-442.webp"},{"id":443,"title":"First Leaf 1410MM","oems":["335350012","315226614802","9921008410"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-443.webp"},{"id":444,"title":"Second Leaf 1390MM","oems":["335350022","315226624802","9921008400"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-444.webp"},{"id":445,"title":"Third Leaf 1210MM","oems":["335350032","315226634802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-445.webp"},{"id":446,"title":"Forth Leaf 1130MM","oems":["335350042","315226644802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-446.webp"},{"id":447,"title":"Fifth Leaf 1030MM","oems":["335350052","315226654802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-447.webp"},{"id":448,"title":"Sixth Leaf 930MM","oems":["335350062","315226664802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-448.webp"},{"id":449,"title":"Seventh Leaf 830MM","oems":["335350072","315226674802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-449.webp"},{"id":450,"title":"Eighth Leaf 730MM","oems":["335350082","315226684802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-450.webp"},{"id":451,"title":"Ninth Leaf","oems":["335350092","315226694802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-451.webp"},{"id":452,"title":"Tenth Leaf 530MM","oems":["335350102","315226704802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-452.webp"},{"id":453,"title":"Eleventh Leaf 430MM","oems":["335350112","315226714802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-453.webp"},{"id":454,"title":"Twelfth Leaf 330MM","oems":["335350122","315226724802"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-454.webp"},{"id":455,"title":"First Leaf 1410MM","oems":["341350011","315252637010","9903006160"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-455.webp"},{"id":456,"title":"Second Leaf 1390MM","oems":["341350021","315252637020","9903006170"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-456.webp"},{"id":457,"title":"Third Leaf 1210MM","oems":["341350031","315252637030","9903006290"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-457.webp"},{"id":458,"title":"Forth Leaf 1130MM","oems":["341350041","315252637040","9903006190"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-458.webp"},{"id":459,"title":"Fifth Leaf 1030MM","oems":["341350051","315252637050","9903006200"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-459.webp"},{"id":460,"title":"Sixth Leaf 930MM","oems":["341350061","315252637060","9903006210"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-460.webp"},{"id":461,"title":"Seventh Leaf 830MM","oems":["341350071","315252637070","9903006220"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-461.webp"},{"id":462,"title":"Eighth Leaf 730MM","oems":["341350081","315252637080","9903006230"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-462.webp"},{"id":463,"title":"Ninth Leaf 630MM","oems":["341350091","315252637090","9903006240"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-463.webp"},{"id":464,"title":"Tenth Leaf 530MM","oems":["341350101","315252637100","9903006250"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-464.webp"},{"id":465,"title":"Eleventh Leaf 430MM","oems":["341350111","315252637110","9903006260"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-465.webp"},{"id":466,"title":"Twelfth Leaf 330MM","oems":["341350121","315252637120","9903006270"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-466.webp"},{"id":467,"title":"Thirteenth Leaf 240MM","oems":["341350131","315252637130","9903006280"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-467.webp"},{"id":468,"title":"Second Leaf","oems":["340356250","442050270304","2050270304"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-468.webp"},{"id":469,"title":"Supporting Pin","oems":["341356081341456080","442050230374442050230364","2050230364"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-469.webp"},{"id":470,"title":"Supporting Socket","oems":["340356251","442050270294"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-470.webp"},{"id":471,"title":"Telescopic Damper","oems":["341495000","443621701000","4436210070"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-471.webp"},{"id":472,"title":"Damper Pin","oems":["341606081","442052381864","2052381864"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-472.webp"},{"id":473,"title":"Telescopic Damper P","oems":["50x250","340395000","443621016000443621025000","4436210250"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-473.webp"},{"id":474,"title":"Front Brake Hose","oems":["341534310341534314","336641551023","4436111000","13*680"],"category":"Brake Systems","image":"assets/tatra/tatra-474.webp"},{"id":475,"title":"Rear Brake Hose","oems":["341596971","336641372211","4436540310","8*3208*340"],"category":"Brake Systems","image":"assets/tatra/tatra-475.webp"},{"id":476,"title":"Exhaust Silencer","oems":["341600501","341600507","341600508","442075900724","20759009442075900884"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-476.webp"},{"id":477,"title":"End Tube S1","oems":["341600570","442075911504","2075911504"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-477.webp"},{"id":478,"title":"Tube To Exhaust","oems":["341600553","442075911414"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-478.webp"},{"id":479,"title":"Clamping Belt","oems":["341602590341602594","442076060414442076060524","2076060524"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-479.webp"},{"id":480,"title":"Bifarcation","oems":["341600590","442070350874","2075911474"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-480.webp"},{"id":481,"title":"Exhaust Tube Lh","oems":["341600543","442075910794","2075912244"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-481.webp"},{"id":482,"title":"Exhaust Tube Rh","oems":["341600550","442075910784","2075912254"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-482.webp"},{"id":483,"title":"Exhaust Brake","oems":["341540001","442075300124","2075300124"],"category":"Brake Systems","image":"assets/tatra/tatra-483.webp"},{"id":484,"title":"Tube","oems":["341602150","442075911394","2075911394"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-484.webp"},{"id":485,"title":"Sealing Ring","oems":["800715535","326012002210","3192320400"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-485.webp"},{"id":486,"title":"Ring","oems":["341608401","442050910344","2050910344"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-486.webp"},{"id":487,"title":"Sealing Ring","oems":["341608400","442050910434","2050910434"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-487.webp"},{"id":488,"title":"Steering Wheel","oems":["390590010","443821038068","443821100067","443821009000","4438210090"],"category":"Axles & Suspension","image":"assets/tatra/tatra-488.webp"},{"id":489,"title":"Ball bush","oems":["341508060","442050420074","2050420074"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-489.webp"},{"id":490,"title":"Steering Tie-Rod Lh","oems":["341500414","442021210374","2021210374"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-490.webp"},{"id":491,"title":"Steering Tie-Rod Rh","oems":["341500411","627962310521442021210254","2021210254"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-491.webp"},{"id":492,"title":"Protective Bag for Ball Joint","oems":["341590804","273124021414"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-492.webp"},{"id":493,"title":"T2 Ball Joint Lh","oems":["341501440","442073410924"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-493.webp"},{"id":494,"title":"T2 Ball Joint Rh","oems":["341501442","442073410934"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-494.webp"},{"id":495,"title":"Cross-Pin","oems":["341506070","442050210174","2050210174"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-495.webp"},{"id":496,"title":"Upper Spindle","oems":["341500050","442073550114","2073550114"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-496.webp"},{"id":497,"title":"Servo-Steering Cylinder RV60","oems":["341500620","341500621","341500622","336711465402","336711155031","3367110130"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-497.webp"},{"id":498,"title":"Servo-Steering Cylinder RV78","oems":["336711465403"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-498.webp"},{"id":499,"title":"Steering Gearbox","oems":["341500010","442073750144442073750154","2073750154"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-499.webp"},{"id":500,"title":"Spindle Holder T1","oems":["341502311","442022220104"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-500.webp"},{"id":501,"title":"Spindle Holder T2","oems":["341502317","442022220214","2022220214"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-501.webp"},{"id":502,"title":"Cylinder Tie-Rod","oems":["341500401","442075063394"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-502.webp"},{"id":503,"title":"Hydraulic Cylinder","oems":["335660500335660503","336314132219336315430594","3363110020"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-503.webp"},{"id":504,"title":"Bisection Distribudor","oems":["341650446","336441312000","3364320210"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-504.webp"},{"id":505,"title":"Bisection Distributor","oems":["341650440","336449312000"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-505.webp"},{"id":506,"title":"Pneumatic Valve","oems":["341120100","337261130101337154134515","3364320170"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-506.webp"},{"id":507,"title":"Disconnecting Valve","oems":["341650241","336525312001","3364320160"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-507.webp"},{"id":508,"title":"Hydraulic Jack","oems":["336650005336650003","336313312700336313310259","3369000360"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-508.webp"},{"id":509,"title":"Regulating Valve","oems":["341530275","443612280704","4436121280"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-509.webp"},{"id":510,"title":"Blow-Off Valve","oems":["341530230","443612356000","4436120650"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-510.webp"},{"id":511,"title":"Air Reservoir 40L","oems":["340530100340530101","443612461808","4429001740"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-511.webp"},{"id":512,"title":"Anti-Freeze Pump","oems":["390530190","443612011000","4436420020"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-512.webp"},{"id":513,"title":"Windscreen Wiper T1","oems":["341930021","443122085081"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-513.webp"},{"id":514,"title":"Windscreen Wiper T2","oems":["4431220210"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-514.webp"},{"id":515,"title":"Wiper Leverage","oems":["341930220","443124084010","4431240180"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-515.webp"},{"id":516,"title":"Wiper Blade","oems":["341930051","443123195020443123262020","4431230240"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-516.webp"},{"id":517,"title":"Gear-shift lever","oems":["341512613","442071110784442071110784","2071110784"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-517.webp"},{"id":518,"title":"Gear-Shift Lever","oems":["341512610","442071110744","2071110744"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-518.webp"},{"id":519,"title":"Gear-Shift Bearing","oems":["341510131","442071290054","2071290054"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-519.webp"},{"id":520,"title":"Driver's seat","oems":["341770210","442994420091442974040474","2974040474"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-520.webp"},{"id":521,"title":"Spring","oems":["317770540","443624050003443624050010","9907004410"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-521.webp"},{"id":522,"title":"Telescopic Shock Absorber","oems":["390797000","443621900000443621111801","4436250020"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-522.webp"},{"id":523,"title":"Source Of Impulses","oems":["341971210341971211","443522800000443522800003","9907000360"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-523.webp"},{"id":524,"title":"Flasher Change-Over Switch","oems":["340939100","443853040053","4438531140"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-524.webp"},{"id":525,"title":"Change-Over Switch","oems":["317939102","443853186051"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-525.webp"},{"id":526,"title":"T2 distance lamp switch","oems":["341939130","443853268040","4438530180"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-526.webp"},{"id":527,"title":"T2 Flasher change over switch","oems":["341939100","443853271090","4438530160"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-527.webp"},{"id":528,"title":"T2 wiper switch","oems":["341939101","443853272090","4438530170"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-528.webp"},{"id":529,"title":"Speedometer drive wheel","oems":["341410720","442018020274","2018020274"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-529.webp"},{"id":530,"title":"Tachograph drive","oems":["341981094341980097","443441300800"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-530.webp"},{"id":531,"title":"Revolution Counter Drive","oems":["341980098","443441280800443441096042","4434410260"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-531.webp"},{"id":532,"title":"Revolution counter (black)","oems":["341980051","443412127981","4434150130"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-532.webp"},{"id":533,"title":"Revolution counter","oems":["340980051","443412028001","4434120020"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-533.webp"},{"id":534,"title":"Exhaust Brake Switch","oems":["341939030","443854151001","4438530210"],"category":"Brake Systems","image":"assets/tatra/tatra-534.webp"},{"id":535,"title":"Control Panel","oems":["341760214341760219","442987300724442987300814","2987300814"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-535.webp"},{"id":536,"title":"Control plate 123","oems":["341971610","443960520200"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-536.webp"},{"id":537,"title":"Oil pressure gauge sensor T1","oems":["341982411","443429093951","4434290060"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-537.webp"},{"id":538,"title":"Oil pressure gauge sensor T2","oems":["341982412","443429020000","4434290200"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-538.webp"},{"id":539,"title":"Lights Tripper","oems":["312922090397922091","443319700000","4433190100"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-539.webp"},{"id":540,"title":"Switch","oems":["317939211317939210","443811445810443811445720","4438110840"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-540.webp"},{"id":541,"title":"Bellows Spring 15 boltsvlnovec TATRA 15děr bez vík","oems":["341350850","443624050002","4436240130"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-541.webp"},{"id":542,"title":"Upper cover víko horní vlnovec 15 děr Крышка верхняя сильфона","oems":["341352060","442075050214","2075050214"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-542.webp"},{"id":543,"title":"Lower cover víko dolní vlnovec 15 děr Крышка нижняя сильфона","oems":["341352070","442075050204","2075050204"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-543.webp"},{"id":544,"title":"Rear LampRh","oems":["336924000","443312236103","4433120480"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-544.webp"},{"id":545,"title":"Rear LampLh","oems":["336924001","443312237103","4433120460"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-545.webp"},{"id":546,"title":"Lamp Cover Rh","oems":["336924260","321851015320"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-546.webp"},{"id":547,"title":"Lamp Cover Lh","oems":["336924261","321851015322"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-547.webp"},{"id":548,"title":"Dome Light","oems":["390923002390923003","443313108103","4433130040"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-548.webp"},{"id":549,"title":"Asymmetric Headlamp","oems":["341920061341920060","443311761103443311722103","4433110340"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-549.webp"},{"id":550,"title":"Fog Lamp","oems":["390921012","443312580103443311809109","4433110650"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-550.webp"},{"id":551,"title":"Back-up light","oems":["109921020319921020","443312553103443312557109","4433110670"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-551.webp"},{"id":552,"title":"Upper Ball Bearing","oems":["341650112","336686310802","3369000070"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-552.webp"},{"id":553,"title":"Lower Ball Bearing","oems":["336650113336650115","442079380064442079380104","2079380104"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-553.webp"},{"id":554,"title":"Load Regulator","oems":["341530184","443612000000","4436120350"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-554.webp"},{"id":555,"title":"Pneumatic Horn","oems":["390935001","443322003000443322000000","4433210040"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-555.webp"},{"id":556,"title":"Air Reservoir 35L","oems":["336530093","443612461807","336-530095"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-556.webp"},{"id":557,"title":"Dewatering Valve","oems":["314530231","443612061001","4436120860"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-557.webp"},{"id":558,"title":"Manual Brake","oems":["Valve961-702-001-0","317530210","443612004000452330364504","4436120040"],"category":"Brake Systems","image":"assets/tatra/tatra-558.webp"},{"id":559,"title":"Relief Valve","oems":["341530272","443612074700","4436121450"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-559.webp"},{"id":560,"title":"Main Brake Valve","oems":["341530011","443612226007","4436121770"],"category":"Brake Systems","image":"assets/tatra/tatra-560.webp"},{"id":561,"title":"Fuel Filter","oems":["335968020","443741111000443741431000","4437410210"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-561.webp"},{"id":562,"title":"Air intake line","oems":["341050625","442070332214","2070332214"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-562.webp"},{"id":563,"title":"Air Cleaner","oems":["341946021341946026","443743911800443743370800","437430410"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-563.webp"},{"id":564,"title":"Gasket","oems":["341946800","273111997394","9905001460"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-564.webp"},{"id":565,"title":"Rubber Bellows","oems":["336059825","273124080134"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-565.webp"},{"id":566,"title":"Rubber Bellows","oems":["344059820","273124060044442054390524","2054391604"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-566.webp"},{"id":567,"title":"Dilatation bag","oems":["341095811","273124021422442054391304","2054391304"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-567.webp"},{"id":568,"title":"Bent Rubber Tube","oems":["317095970","273133010300273199003380","2731115560"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-568.webp"},{"id":569,"title":"Cleaner Insert","oems":["341946201","273451111325"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-569.webp"},{"id":570,"title":"Air pre-cleaner T148","oems":["336946024","443743424800"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-570.webp"},{"id":571,"title":"Fuel Tank","oems":["341610021341610024","442076500774442076501024","2076501024"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-571.webp"},{"id":572,"title":"Cover to neck T1","oems":["341614012","442076530234","2076530234"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-572.webp"},{"id":573,"title":"Cover to neck T2","oems":["4435250010"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-573.webp"},{"id":574,"title":"Fuel Filter Fj","oems":["2R-1252","336968000","443979731252"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-574.webp"},{"id":575,"title":"Hand Pump","oems":["336965120","443979642261","4437240220"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-575.webp"},{"id":576,"title":"Front Wind Shield Glass","oems":["341740510","634452010000442940010114","2940010114"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-576.webp"},{"id":577,"title":"Rear-View Mirror Holder","oems":["341742307341742306","442976910174442976110184442976910184","2976910184"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-577.webp"},{"id":578,"title":"Push-Button Switch","oems":["335939030","443854183001","4438520240"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-578.webp"},{"id":579,"title":"Adapter","oems":["341522742","442075063654","2075063654"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-579.webp"},{"id":580,"title":"Pedal","oems":["341520240","442071160604","2071160604"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-580.webp"},{"id":581,"title":"Pedal Bearing","oems":["341522230","442075030464","2075030464"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-581.webp"},{"id":582,"title":"Gear-Shift Housing","oems":["341510110","442017580394","2017580394"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-582.webp"},{"id":583,"title":"Spring Washer","oems":["991741020","311214115200"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-583.webp"},{"id":584,"title":"Combustion chamber","oems":["341971460","443960521612"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-584.webp"},{"id":585,"title":"Heater T1","oems":["341971023","443522756708","4435220320"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-585.webp"},{"id":586,"title":"Heater T2","oems":["341971024","443522756713","4435220280"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-586.webp"},{"id":587,"title":"Heating body","oems":["341972071","443950521018","4435120350"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-587.webp"},{"id":588,"title":"Straight cock","oems":["397691020","341691010","443761335200443761353600","4436120910"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-588.webp"},{"id":589,"title":"Fan","oems":["341971080","442070400414","2070400414"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-589.webp"},{"id":590,"title":"Exhaust Tube","oems":["341971640","443960521608","4439600070"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-590.webp"},{"id":591,"title":"Fan","oems":["341971081341971083","443960523018","9907002050"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-591.webp"},{"id":592,"title":"Fuse Box","oems":["340939360","441040450024","1040450024"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-592.webp"},{"id":593,"title":"Headlamp Switch","oems":["312939030","443854112001","4438530680"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-593.webp"},{"id":594,"title":"Stop Switch T1","oems":["390530113","443852030854"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-594.webp"},{"id":595,"title":"Stop Switch T2","oems":["390530119","443852119040","4438520050"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-595.webp"},{"id":596,"title":"Pneumatic Switch","oems":["317530111311530111","443852040046443852027046","44385202504438520260"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-596.webp"},{"id":597,"title":"Safety Thermoswitch","oems":["341971221341971224","443960521581443960525103","9907000350"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-597.webp"},{"id":598,"title":"Cable","oems":["336602750","442075061004","2075061004"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-598.webp"},{"id":599,"title":"Dust-proof collar","oems":["341539829","443962503396","4439600840"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-599.webp"},{"id":600,"title":"Dust-proof collar","oems":["341539820","443962505157"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-600.webp"},{"id":601,"title":"Bag","oems":["335519822","273124021104442054390164","2054390164"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-601.webp"},{"id":602,"title":"Set of gaskets-Engine","oems":["T815T3A-929","08-99110-90","2077400524"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-602.webp"},{"id":603,"title":"Set of gaskets-Gearbox","oems":["2077400424"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-603.webp"},{"id":604,"title":"Set of gaskets-Clutch booster","oems":["2077400544"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-604.webp"},{"id":605,"title":"Set of gaskets-Gear-shift booster","oems":["2077400434"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-605.webp"},{"id":606,"title":"Engine repair","oems":["kitT3A-929"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-606.webp"},{"id":607,"title":"Set of gaskets-Injection","oems":["pump443711011549"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-607.webp"},{"id":608,"title":"Set of gaskets-Main","oems":["cylinder443611012000"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-608.webp"},{"id":609,"title":"Set of gaskets-Front brake","oems":["cylinder443612164003"],"category":"Brake Systems","image":"assets/tatra/tatra-609.webp"},{"id":610,"title":"Set of gaskets-Rear brake","oems":["cylinder443612193004","341530990"],"category":"Brake Systems","image":"assets/tatra/tatra-610.webp"},{"id":611,"title":"Set of gaskets-Main brake","oems":["valve443612226007"],"category":"Brake Systems","image":"assets/tatra/tatra-611.webp"},{"id":612,"title":"Set of gaskets-Manual brake","oems":["valve443612000000"],"category":"Brake Systems","image":"assets/tatra/tatra-612.webp"},{"id":613,"title":"Set of gaskets-Air pressure","oems":["regulator443612015809"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-613.webp"},{"id":614,"title":"Set of gaskets-Condensate","oems":["sump443612051801"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-614.webp"},{"id":615,"title":"Set of gaskets-Control","oems":["valve443612280001"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-615.webp"},{"id":616,"title":"Set of gaskets-Hydraulic","oems":["aggregate336194011218"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-616.webp"},{"id":617,"title":"Set of gaskets-Hand","oems":["pump443979642261"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-617.webp"},{"id":618,"title":"Set of gaskets-Servo-steering","oems":["cylinder336711465402"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-618.webp"},{"id":619,"title":"Set of gaskets-Hydraulic","oems":["cylinder336315430594"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-619.webp"},{"id":620,"title":"Set of gaskets-Hydreulic","oems":["cylinder336315432179"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-620.webp"},{"id":621,"title":"Set of gaskets-Hydraulic","oems":["jack336313312700"],"category":"Steering & Hydraulics","image":"assets/tatra/tatra-621.webp"},{"id":622,"title":"Set of gaslets- Engine T163","oems":[],"category":"Engine & Cylinders","image":"assets/tatra/tatra-622.webp"},{"id":623,"title":"Shaft sealing double-lip","oems":["73.5*110*10","2735210990","2735211020"],"category":"Axles & Suspension","image":"assets/tatra/tatra-623.webp"},{"id":624,"title":"Shaft sealing double-lip","oems":["73.5*110*13","2735211080"],"category":"Axles & Suspension","image":"assets/tatra/tatra-624.webp"},{"id":625,"title":"Shaft sealing double-lip","oems":["35*50*7","9903007740"],"category":"Axles & Suspension","image":"assets/tatra/tatra-625.webp"},{"id":626,"title":"Shaft sealing double-lip","oems":["160*190*15","2735212910"],"category":"Axles & Suspension","image":"assets/tatra/tatra-626.webp"},{"id":627,"title":"Shaft sealing double-lip","oems":["170*200*15","2735213090"],"category":"Axles & Suspension","image":"assets/tatra/tatra-627.webp"},{"id":628,"title":"Shaft sealing single-lip","oems":["150*180*15","953150315","273521023821","99030077502735212970"],"category":"Axles & Suspension","image":"assets/tatra/tatra-628.webp"},{"id":629,"title":"Shaft sealing","oems":["50*72*12","954050312","273521015017","2735211720","50*72*12"],"category":"Axles & Suspension","image":"assets/tatra/tatra-629.webp"},{"id":630,"title":"Shaft sealing","oems":["40*52*7","954040107","273521011121","27352103602735212860","40*52*7"],"category":"Axles & Suspension","image":"assets/tatra/tatra-630.webp"},{"id":631,"title":"Shaft sealing","oems":["60*80*13","954060213","273521017317","27352119809901006770","60*80*13"],"category":"Axles & Suspension","image":"assets/tatra/tatra-631.webp"},{"id":632,"title":"Shaft sealing","oems":["70*85*8","2735213660"],"category":"Axles & Suspension","image":"assets/tatra/tatra-632.webp"},{"id":633,"title":"Shaft sealing MVQ G","oems":["10*19*7","2735210070"],"category":"Axles & Suspension","image":"assets/tatra/tatra-633.webp"},{"id":634,"title":"Shaft sealing NBR G","oems":["10*19*7","2735210070"],"category":"Axles & Suspension","image":"assets/tatra/tatra-634.webp"},{"id":635,"title":"Shaft sealing NBR G","oems":["11*19*5","9901001780"],"category":"Axles & Suspension","image":"assets/tatra/tatra-635.webp"},{"id":636,"title":"Shaft sealing NBR G","oems":["17*28*7","2735221010"],"category":"Axles & Suspension","image":"assets/tatra/tatra-636.webp"},{"id":637,"title":"Shaft sealing NBR G","oems":["17*28*7","2735221010"],"category":"Axles & Suspension","image":"assets/tatra/tatra-637.webp"},{"id":638,"title":"Shaft sealing FPM","oems":["30*55*9","2735212630"],"category":"Axles & Suspension","image":"assets/tatra/tatra-638.webp"},{"id":639,"title":"Shaft sealing MVQ GPV","oems":["30*55*10","2735212740"],"category":"Axles & Suspension","image":"assets/tatra/tatra-639.webp"},{"id":640,"title":"Shaft sealing GP MVQ","oems":["40*52*7","2735212860"],"category":"Axles & Suspension","image":"assets/tatra/tatra-640.webp"},{"id":641,"title":"Shaft sealing G MVQ","oems":["40*62*7","2735212620"],"category":"Axles & Suspension","image":"assets/tatra/tatra-641.webp"},{"id":642,"title":"Shaft sealing GP NBR","oems":["45*62*12","2735211580"],"category":"Axles & Suspension","image":"assets/tatra/tatra-642.webp"},{"id":643,"title":"Shaft sealing NBR G","oems":["45*72*12","9904000700"],"category":"Axles & Suspension","image":"assets/tatra/tatra-643.webp"},{"id":644,"title":"Shaft sealing G MVQ","oems":["55*80*13","2735211840"],"category":"Axles & Suspension","image":"assets/tatra/tatra-644.webp"},{"id":645,"title":"Shaft sealing MVQ GP","oems":["60*80*8","9901006850"],"category":"Axles & Suspension","image":"assets/tatra/tatra-645.webp"},{"id":646,"title":"Shaft sealing MVQ G","oems":["60*80*13","9901006770"],"category":"Axles & Suspension","image":"assets/tatra/tatra-646.webp"},{"id":647,"title":"Shaft sealing GP NBR","oems":["60*90*13","2735212000"],"category":"Axles & Suspension","image":"assets/tatra/tatra-647.webp"},{"id":648,"title":"Shaft sealing GP NBR","oems":["70*90*13","951070213","273525004721","2735212850"],"category":"Axles & Suspension","image":"assets/tatra/tatra-648.webp"},{"id":649,"title":"Shaft sealing MVQ G","oems":["70*90*13","9901006760"],"category":"Axles & Suspension","image":"assets/tatra/tatra-649.webp"},{"id":650,"title":"Shaft sealing NBR G","oems":["70*100*13","2735212200"],"category":"Axles & Suspension","image":"assets/tatra/tatra-650.webp"},{"id":651,"title":"Shaft sealing NBR G","oems":["72*100*13","2735212230"],"category":"Axles & Suspension","image":"assets/tatra/tatra-651.webp"},{"id":652,"title":"Shaft","oems":["sealing75*100*10","273521322000","2735213220","TW02328"],"category":"Axles & Suspension","image":"assets/tatra/tatra-652.webp"},{"id":653,"title":"Shaft sealing NBR G","oems":["85*110*13","2735212400"],"category":"Axles & Suspension","image":"assets/tatra/tatra-653.webp"},{"id":654,"title":"Shaft sealing MVQ G","oems":["110*140*13","2735212730"],"category":"Axles & Suspension","image":"assets/tatra/tatra-654.webp"},{"id":655,"title":"Shaft sealing MVQ GP","oems":["ring150*170*15","273521269000","2735212690"],"category":"Axles & Suspension","image":"assets/tatra/tatra-655.webp"},{"id":656,"title":"Shaft sealing NBR GP","oems":["150*170*15","2735212690"],"category":"Axles & Suspension","image":"assets/tatra/tatra-656.webp"},{"id":657,"title":"Shaft sealing GP MVQ","oems":["160*190*15","2735212910"],"category":"Axles & Suspension","image":"assets/tatra/tatra-657.webp"},{"id":658,"title":"Shaft sealing RWDR","oems":["165*190*15.5/17","2735213250"],"category":"Axles & Suspension","image":"assets/tatra/tatra-658.webp"},{"id":659,"title":"Shaft sealing RWDR","oems":["170*190*9","2735213670"],"category":"Axles & Suspension","image":"assets/tatra/tatra-659.webp"},{"id":660,"title":"O ring","oems":["200*5","2731102830"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-660.webp"},{"id":661,"title":"O ring","oems":["250*3","2731102880"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-661.webp"},{"id":662,"title":"Tire Forklift","oems":["2.50-15-18-PR"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-662.webp"},{"id":663,"title":"Tire Wheel","oems":["6.50-10-10-PR","5.00"],"category":"Axles & Suspension","image":"assets/tatra/tatra-663.webp"},{"id":664,"title":"Tire Wheel","oems":["10.00R20-18","7.50"],"category":"Axles & Suspension","image":"assets/tatra/tatra-664.webp"},{"id":665,"title":"Tire Wheel","oems":["445/65R22.5","2741430150","14.00"],"category":"Axles & Suspension","image":"assets/tatra/tatra-665.webp"},{"id":666,"title":"Tire T815","oems":["12.00-20-18PR","2741430430"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-666.webp"},{"id":667,"title":"Hose","oems":["4*320","311591970","336641372011"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-667.webp"},{"id":668,"title":"Hose","oems":["4*400","336691970","336641372011"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-668.webp"},{"id":669,"title":"Hose","oems":["4*670","340593970","336641372011"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-669.webp"},{"id":670,"title":"Hose","oems":["4*950","341560610341596974","336641372011"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-670.webp"},{"id":671,"title":"Hose","oems":["6*250","335096892","336641372111"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-671.webp"},{"id":672,"title":"Hose","oems":["6*300","790096970","336641372111"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-672.webp"},{"id":673,"title":"Hose","oems":["6*500","341691970790096970","336641372111"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-673.webp"},{"id":674,"title":"Hose","oems":["6*600","341596972","336641372111"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-674.webp"},{"id":675,"title":"Hose","oems":["8*250","335096893","336641372211"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-675.webp"},{"id":676,"title":"Hose","oems":["8*300","780096971","336641372211"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-676.webp"},{"id":677,"title":"High-pressure hose","oems":["8*400","335195973335195976","336631105308"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-677.webp"},{"id":678,"title":"Hose","oems":["8*500","336096971","336641372211"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-678.webp"},{"id":679,"title":"Hose","oems":["8*500","336096971780096971","336641372211"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-679.webp"},{"id":680,"title":"Hose","oems":["8*600","305590974","336641372211"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-680.webp"},{"id":681,"title":"Hose","oems":["10*300","335590971","336635100405"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-681.webp"},{"id":682,"title":"High-pressure hose","oems":["10*450","341590970","336632100409"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-682.webp"},{"id":683,"title":"Hose","oems":["10*560","335590977","336641372311"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-683.webp"},{"id":684,"title":"Hose","oems":["10*630","341590971","336632100413"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-684.webp"},{"id":685,"title":"High-pressure hose","oems":["20*400","344695970","336632100908"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-685.webp"},{"id":686,"title":"High-pressure hose","oems":["20*800","336695973","336631101017"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-686.webp"},{"id":687,"title":"Cap nut 6 Φ6","oems":["397568810","319418103410","31941105804436112400"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-687.webp"},{"id":688,"title":"Sealing ring 6 Φ6","oems":["341561940","442053610044","44260086902053610044"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-688.webp"},{"id":689,"title":"Insert 6 Φ6","oems":["311561940","548212105000548212105009","5482120010"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-689.webp"},{"id":690,"title":"Cap nut 8 Φ8","oems":["443611239000","4436112390"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-690.webp"},{"id":691,"title":"Sealing ring 8 Φ8","oems":["341561941","442053610054","31941105202053610054"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-691.webp"},{"id":692,"title":"Insert 8 Φ8","oems":["311561941","548212106000","5482120020"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-692.webp"},{"id":693,"title":"Cap nut 10 Φ10","oems":["4436112360"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-693.webp"},{"id":694,"title":"Sealing ring 10 Φ10","oems":["341561942","442053610064","2053610064"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-694.webp"},{"id":695,"title":"Insert 10 Φ10","oems":["311561942","548213107000","5482120030"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-695.webp"},{"id":696,"title":"Nut 15 Φ15","oems":["4436112160"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-696.webp"},{"id":697,"title":"Sealing ring 15 Φ15","oems":["4436112110"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-697.webp"},{"id":698,"title":"Insert 15 Φ15","oems":["311561943","548213108000","5482120040"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-698.webp"},{"id":699,"title":"Dome light switch","oems":["356939010","443851244001","4438510250"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-699.webp"},{"id":700,"title":"Fog lamp switch","oems":["356939011","443851245001","4438510290"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-700.webp"},{"id":701,"title":"Axle switch","oems":["341939019","443851253001","4438510310"],"category":"Axles & Suspension","image":"assets/tatra/tatra-701.webp"},{"id":702,"title":"Headlamp Switch","oems":["341939020","443851278001","4438510360"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-702.webp"},{"id":703,"title":"Axle switch","oems":["341939021","443851281001","4438510400"],"category":"Axles & Suspension","image":"assets/tatra/tatra-703.webp"},{"id":704,"title":"Roller bearing RNU 212","oems":["964212370","324412120500","9903006080"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-704.webp"},{"id":705,"title":"Ball bearing NU","oems":["964217473","324417172073","3244170320","2217"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-705.webp"},{"id":706,"title":"Roller bearing NJ","oems":["964309299","324428092003","3244280180","2309"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-706.webp"},{"id":707,"title":"Roller bearing","oems":["961320603","324232060003","3242320140","3206"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-707.webp"},{"id":708,"title":"Ball bearing","oems":["961330500","324233050000","3242330050","3305"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-708.webp"},{"id":709,"title":"Roller bearing","oems":["966490500","324549050000","3245450220","4905"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-709.webp"},{"id":710,"title":"Roller bearing","oems":["966491001","324592491072","9903006130","4910"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-710.webp"},{"id":711,"title":"Roller bearing","oems":["960600700","324165070000","3421650080","6007"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-711.webp"},{"id":712,"title":"Roller bearing","oems":["960601200","324165120000","3241652130","6012"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-712.webp"},{"id":713,"title":"Ball bearing","oems":["960602603","324165260003","9903001390","6026"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-713.webp"},{"id":714,"title":"Roller bearing","oems":["960620177","324162010028","9901006540","6201"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-714.webp"},{"id":715,"title":"Roller bearing","oems":["960620592","324162058303","9901006210","6205"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-715.webp"},{"id":716,"title":"Roller bearing","oems":["960620680","324162060010","3241622380","6206"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-716.webp"},{"id":717,"title":"Roller bearing","oems":["960620700","324162070100","3241620080","6207"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-717.webp"},{"id":718,"title":"Ball bearing","oems":["960621200","324162125900","3241622660","6212"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-718.webp"},{"id":719,"title":"Ball bearing","oems":["960621497","324162145900","9903001380","6214"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-719.webp"},{"id":720,"title":"Roller bearing","oems":["960621999","324162190100","3241620210","6219"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-720.webp"},{"id":721,"title":"Roller bearing","oems":["960630474","324163040228","3241630340","6304"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-721.webp"},{"id":722,"title":"Roller bearing","oems":["960630600","324163060100","3241630070","6306"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-722.webp"},{"id":723,"title":"Ball bearing 306B","oems":["964306170","324423060500","99010091409901003560"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-723.webp"},{"id":724,"title":"Roller bearing","oems":["960630795","324163078380","9901000130","6307"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-724.webp"},{"id":725,"title":"Ball bearing","oems":["960631734","324163179461","3241631730","6317"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-725.webp"},{"id":726,"title":"Ball bearing","oems":["960720400","324172040000","9901005310","7204"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-726.webp"},{"id":727,"title":"Tapered roller bearing","oems":["963220999","324712090100","3247120630","30209"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-727.webp"},{"id":728,"title":"Beariing","oems":["30210","963021092","324712107400324712100041","99020002303247120580","30210"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-728.webp"},{"id":729,"title":"Bearing","oems":["30212","963021298","324712125900","3247120800","30212"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-729.webp"},{"id":730,"title":"Tapered roller bearing","oems":["963021996","324712190100","32471205703247120680","30219"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-730.webp"},{"id":731,"title":"Bearing","oems":["963030799963022009","324712200100342712202000","3247120690","30220"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-731.webp"},{"id":732,"title":"Roller bearing","oems":["963022109","324712212000","32471207109931004450","30221"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-732.webp"},{"id":733,"title":"Bearing","oems":["30307","963030797963030999","324713075900324713072000","3247130190","30307"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-733.webp"},{"id":734,"title":"Bearing","oems":["32010","963201099","324715100320","9902001000","32010"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-734.webp"},{"id":735,"title":"Bearing","oems":["32012","963201299","324715127400","9902001010","32012"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-735.webp"},{"id":736,"title":"Roller bearing","oems":["963201800","324715187400324714025000","3247140250","32018"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-736.webp"},{"id":737,"title":"Tapered roller bearing","oems":["963202298","324715220320","3247140280","32022"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-737.webp"},{"id":738,"title":"Roller bearing","oems":["963202400","324715247400","3247140360","32024"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-738.webp"},{"id":739,"title":"Roller bearing","oems":["964026399","324415261060","3244150030","32126"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-739.webp"},{"id":740,"title":"Tapered roller bearing","oems":["963220998","324712095900","3247170270","32209"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-740.webp"},{"id":741,"title":"Tapered roller bearing","oems":["963221998","324717190100","32471705703217170570","32219"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-741.webp"},{"id":742,"title":"Tapered roller bearing","oems":["963231007","324718100500","32471802703247180280","32310"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-742.webp"},{"id":743,"title":"Roller bearing","oems":["963231207","324718120500","3247180400","32312"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-743.webp"},{"id":744,"title":"Roller bearing","oems":["963231397","324718130000324718130100","3247180250","32313"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-744.webp"},{"id":745,"title":"Roller bearing NU410","oems":["964410373","324414104903","3244140480"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-745.webp"},{"id":746,"title":"Roller bearing","oems":["963321599","324727152000","3247910070","33215"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-746.webp"},{"id":747,"title":"Bearing","oems":["NK70/25","3245450480"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-747.webp"},{"id":748,"title":"Bearing","oems":["48290-48220","3247920010"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-748.webp"},{"id":749,"title":"Bearing","oems":["JHM720249/720210","3247910230"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-749.webp"},{"id":750,"title":"Bearing INA","oems":["72x80x46","3245450430"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-750.webp"},{"id":751,"title":"Bearing INA","oems":["60X68X46","3245450410"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-751.webp"},{"id":752,"title":"Gasket cover","oems":["442054020074","2054020074"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-752.webp"},{"id":753,"title":"Turbo-blower HX50W","oems":["3580995","486512014000","4865120140"],"category":"Fuel, Filters & Exhaust","image":"assets/tatra/tatra-753.webp"},{"id":754,"title":"Nozzle","oems":["DLLA140P1098","443713054000","4437130540","433171708"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-754.webp"},{"id":755,"title":"Clutch plate","oems":["2013830054"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-755.webp"},{"id":756,"title":"Clutch disk","oems":["341058530","442013830024","2013830024"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-756.webp"},{"id":757,"title":"Ring cylinder head","oems":["2010100034"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-757.webp"},{"id":758,"title":"Tatra Heavy Spare Part #758","oems":[],"category":"General Chassis & Spares","image":"assets/tatra/tatra-758.webp"},{"id":759,"title":"Carrier","oems":["341212540","442072080464","2072080464"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-759.webp"},{"id":760,"title":"Con. Rod Bushing","oems":["341100490","323414180423","9901000120"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-760.webp"},{"id":761,"title":"Relay","oems":["317939210","443811445540","4438110140"],"category":"Electrical & Lighting","image":"assets/tatra/tatra-761.webp"},{"id":762,"title":"Bush for Brake cam KU","oems":["3535","336338050","323427150703","9903001350"],"category":"Brake Systems","image":"assets/tatra/tatra-762.webp"},{"id":763,"title":"Bush for Clutch shaft","oems":["341158060","442015240124","2015240124"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-763.webp"},{"id":764,"title":"Cover for Clutch shaft bearing","oems":["341152041","442015230034","2015230034"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-764.webp"},{"id":765,"title":"Nut","oems":["341219310","442052571324","2052571324"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-765.webp"},{"id":766,"title":"Nut for Front wheel hub T2","oems":["341439390","442052571414","2052571414"],"category":"Axles & Suspension","image":"assets/tatra/tatra-766.webp"},{"id":767,"title":"Cylinder head T2","oems":["341020003","442070310844","2070310844"],"category":"Engine & Cylinders","image":"assets/tatra/tatra-767.webp"},{"id":768,"title":"Safety valve","oems":["310961430","443976904117","4439700520"],"category":"Air & Pneumatic Valves","image":"assets/tatra/tatra-768.webp"},{"id":769,"title":"Protective wheel sheet","oems":["336432111","442074120034","2074120034"],"category":"Axles & Suspension","image":"assets/tatra/tatra-769.webp"},{"id":770,"title":"Sealing ring 130x4","oems":["341090950","273111531225","27311093102054170414"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-770.webp"},{"id":771,"title":"Supporting ring","oems":["341338501","442050660824","3117391300","F316-18C"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-771.webp"},{"id":772,"title":"Lock ring","oems":["341338510","442050660764","3117391260","F316-20C"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-772.webp"},{"id":773,"title":"Lock ring 190","oems":["992931190","311733101900","3111731980","F316-26C"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-773.webp"},{"id":774,"title":"Lock ring 45","oems":["992931045","311733100450","3111731410"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-774.webp"},{"id":775,"title":"Lock ring 47","oems":["992931047","311733100470","3111731420"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-775.webp"},{"id":776,"title":"Sealing ring 110x5","oems":["973211052","273111014524","2731102730"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-776.webp"},{"id":777,"title":"Sealing ring","oems":["124.2x3","312094953","273111531555","9901000020"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-777.webp"},{"id":778,"title":"Sealing ring 140X5","oems":["933214052","273111014604","2731102750"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-778.webp"},{"id":779,"title":"Sealing ring Si","oems":["213*12","341094953","273111532055","2054170834"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-779.webp"},{"id":780,"title":"Sealing ring 280X5","oems":["933228052","273111014844","2731102940"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-780.webp"},{"id":781,"title":"Sealing ring 286x3","oems":["341491950","273111531685","2731101570"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-781.webp"},{"id":782,"title":"Sealing ring","oems":["19.5х7.5","335092951","273111340705","2054240034"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-782.webp"},{"id":783,"title":"Sealing ring","oems":["13.5x5","335094954","273111029175","2054240054"],"category":"Bearings & Sealing","image":"assets/tatra/tatra-783.webp"},{"id":784,"title":"Clutch cover MFZ420","oems":["341150078","442370505186","4429990960"],"category":"Clutch & Gearbox","image":"assets/tatra/tatra-784.webp"},{"id":785,"title":"Cross pin for propellar shaft","oems":["341200065","442072610094","2072610094"],"category":"Axles & Suspension","image":"assets/tatra/tatra-785.webp"},{"id":786,"title":"lubricator","oems":["997451190","425110101140","4251110010"],"category":"General Chassis & Spares","image":"assets/tatra/tatra-786.webp"},{"id":787,"title":"Upper step board, LH","oems":["341700352","442987950094","2987950094","611-26"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-787.webp"},{"id":788,"title":"Upper step board, RH","oems":["341700355","442987950124","2987950124","611-27"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-788.webp"},{"id":789,"title":"Lower step board, LH","oems":["341700350","442987950074","2987950074","611-28"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-789.webp"},{"id":790,"title":"Lower step board, RH","oems":["341700353","442987950104","2987950104","611-29"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-790.webp"},{"id":791,"title":"Upper step board, LH V12","oems":["341700362","442987960134","2987960134"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-791.webp"},{"id":792,"title":"Upper step board, RH V12","oems":["341700363","442987960144","2987960144"],"category":"Cabin & Body Parts","image":"assets/tatra/tatra-792.webp"}];
+window.TATRA_CATALOG = [
+  {
+    "id": 1,
+    "title": "Ashtray",
+    "oems": [
+      "113797161",
+      "443825017800",
+      "4438250060"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-001.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 2,
+    "title": "Gear-Shift Booster",
+    "oems": [
+      "341220602",
+      "442071820334",
+      "2071820334"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-002.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 3,
+    "title": "Bag",
+    "oems": [
+      "442054390604",
+      "341292801",
+      "273124040104",
+      "2731117190",
+      "341592801",
+      "273124010432",
+      "2054391104",
+      "273124010432442054391104",
+      "335519822",
+      "273124021104442054390164",
+      "2054390164"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-003.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 4,
+    "title": "Brake unit 12 739",
+    "oems": [
+      "4439992290",
+      "443999229000",
+      "07512739075"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-004.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 5,
+    "title": "Repair kit-Brake unit PERROT",
+    "oems": [
+      "12999404",
+      "4439992400",
+      "12999418",
+      "4439992370"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-005.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 6,
+    "title": "Servo-Steering Tank",
+    "oems": [
+      "341500630",
+      "336676152215",
+      "336676155215",
+      "3365290050"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-007.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 7,
+    "title": "Fuel gauge float",
+    "oems": [
+      "341983040341983042",
+      "443429085021443429145021",
+      "4434290040"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-008.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 8,
+    "title": "Balancing tank",
+    "oems": [
+      "193595056",
+      "443611076000",
+      "4436110270"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-009.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 9,
+    "title": "Repair kit for Engine T163",
+    "oems": [
+      "2077400954",
+      "2077400684"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-010.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 10,
+    "title": "Door lock assembly, RH Assy. Door lock assembly, LH",
+    "oems": [
+      "133988000",
+      "549912007800",
+      "5494520210",
+      "133988010",
+      "549912007600",
+      "5494520200"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-011.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 11,
+    "title": "Brake Cylinder",
+    "oems": [
+      "442074860394",
+      "4436122420",
+      "341530053",
+      "443612164003",
+      "4436124040",
+      "341530061",
+      "443612193004",
+      "4436124000",
+      "341530065",
+      "443612193017",
+      "4436124020",
+      "341530066",
+      "443612193019",
+      "4436124050"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-120.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 12,
+    "title": "Alternator",
+    "oems": [
+      "28/55A",
+      "9515.631",
+      "4431130160",
+      "390902012",
+      "443113516830",
+      "9901005240"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-013.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 13,
+    "title": "Power steering pump T163",
+    "oems": [
+      "3361460380"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-014.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 14,
+    "title": "Reduction Pre-Selector",
+    "oems": [
+      "335510742",
+      "442079050204",
+      "2079050204"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-015.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 15,
+    "title": "Air-Pressure Regulator",
+    "oems": [
+      "341530186",
+      "443612015809",
+      "341-530187",
+      "443612015810",
+      "4436140260"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-016.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 16,
+    "title": "Condensate Sump",
+    "oems": [
+      "344534743",
+      "443612051801",
+      "4436123270"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-017.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 17,
+    "title": "Preliminary fuel filter T2",
+    "oems": [
+      "341968000",
+      "443979730101",
+      "4437410100"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-018.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 18,
+    "title": "Glass for filter",
+    "oems": [
+      "341968360",
+      "632629512090",
+      "9905000540"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-019.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 19,
+    "title": "Steering Lock",
+    "oems": [
+      "133913001",
+      "549613234080",
+      "5494517020"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-020.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 20,
+    "title": "T2 Steering Lock",
+    "oems": [
+      "341913000",
+      "549623624080",
+      "5494517030"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-021.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 21,
+    "title": "Clutch Cover MFZ420",
+    "oems": [
+      "341150070",
+      "442170505129442370505186",
+      "4429995000",
+      "341150078",
+      "442370505186",
+      "4429990960"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-022.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 22,
+    "title": "Diaphragm spring",
+    "oems": [
+      "442150635029"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-023.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 23,
+    "title": "Air Compressor T163",
+    "oems": [
+      "443614029000",
+      "4436140290",
+      "4192"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-024.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 24,
+    "title": "Compressor \u03c690",
+    "oems": [
+      "341100001",
+      "443614031800",
+      "4436140150",
+      "4131"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-025.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 25,
+    "title": "Compressor \u03c680",
+    "oems": [
+      "341100000",
+      "443614001800",
+      "4436140120",
+      "4101"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-026.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 26,
+    "title": "Compressor double cylinder",
+    "oems": [
+      "341100002",
+      "443614002800",
+      "4436140040",
+      "4102"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-027.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 27,
+    "title": "Compressor LK4938",
+    "oems": [
+      "443612187000",
+      "4436121890",
+      "4938"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-028.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 28,
+    "title": "Flywheel",
+    "oems": [
+      "341010302",
+      "442070100354",
+      "2070100354",
+      "2070100474"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-029.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 29,
+    "title": "Gear rim T613",
+    "oems": [
+      "2010240164"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-031.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 30,
+    "title": "Distance Lamp Switch",
+    "oems": [
+      "360939130",
+      "443853187050",
+      "4438531180"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-032.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 31,
+    "title": "Switch SWF 201 576",
+    "oems": [
+      "443853015000",
+      "4438530150"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-033.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 32,
+    "title": "Cover sheet",
+    "oems": [
+      "341702122",
+      "442925810174",
+      "2925810174",
+      "603-35",
+      "341702123",
+      "442925810184",
+      "2925810184",
+      "603-36"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-034.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 33,
+    "title": "Window Dropper",
+    "oems": [
+      "317989040",
+      "441776300306",
+      "5493211200",
+      "341989040",
+      "442976300114",
+      "2976300114",
+      "2976300134"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-036.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 34,
+    "title": "Handle",
+    "oems": [
+      "317989100",
+      "443873560035442973560304",
+      "2973560304"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-039.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 35,
+    "title": "Door lock",
+    "oems": [
+      "112988061",
+      "549613065040",
+      "5494520240",
+      "112988060",
+      "549613280040",
+      "5494520130"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-040.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 36,
+    "title": "Gear pump",
+    "oems": [
+      "317930293390930290",
+      "443990126019443990126024",
+      "9907003040",
+      "341500610",
+      "336152158002",
+      "3361460390"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-042.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 37,
+    "title": "Bellows Spring 12 bolts",
+    "oems": [
+      "341350851",
+      "443624052000",
+      "4436240040"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-043.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 38,
+    "title": "Hydreulic Cylinder",
+    "oems": [
+      "341660601",
+      "336315432179",
+      "3363110030"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-044.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 39,
+    "title": "Hydraulic Aggregate",
+    "oems": [
+      "341660651",
+      "336194011218",
+      "3361460280"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-045.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 40,
+    "title": "Speedometer",
+    "oems": [
+      "315980071341981021",
+      "443411151000",
+      "4434110080"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-046.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 41,
+    "title": "Cylinder Head Thermometer",
+    "oems": [
+      "341982061",
+      "443414093981",
+      "4434140140"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-047.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 42,
+    "title": "Oil Pressure Gauge",
+    "oems": [
+      "316982000",
+      "443415048951443415071000",
+      "4434150030"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-048.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 43,
+    "title": "Fuel Gauge",
+    "oems": [
+      "390983020",
+      "443422038031443422059031",
+      "4434220040"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-049.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 44,
+    "title": "Air Pressure Gauge",
+    "oems": [
+      "390982000",
+      "443415044001",
+      "4434150080",
+      "341982002",
+      "443415050901",
+      "4434150110"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-050.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 45,
+    "title": "Horn Valve",
+    "oems": [
+      "390935230",
+      "443319032000",
+      "4436120510"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-052.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 46,
+    "title": "Closing Cock",
+    "oems": [
+      "397534050",
+      "443612366000",
+      "397-534053",
+      "443612370803",
+      "4436120950"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-053.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 47,
+    "title": "Control Valve",
+    "oems": [
+      "390530280",
+      "443612280001",
+      "44361215904436121710",
+      "Wabco9730010200",
+      "4436120570",
+      "Wabco4730170300",
+      "4436122150"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-054.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 48,
+    "title": "Dewatering Valve",
+    "oems": [
+      "390530231",
+      "443612061702",
+      "4436121610",
+      "314530231",
+      "443612061001",
+      "4436120860"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-055.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 49,
+    "title": "Main Cylinder",
+    "oems": [
+      "311195010",
+      "443611012000",
+      "4436110040014436110020",
+      "4436110090",
+      "4436110100"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-056.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 50,
+    "title": "Air cylinder",
+    "oems": [
+      "305530040",
+      "443612131000",
+      "4436120080"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-060.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 51,
+    "title": "Back Pressure Valve",
+    "oems": [
+      "390530251",
+      "443612081001",
+      "4436120810"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-061.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 52,
+    "title": "Two-Way Valve",
+    "oems": [
+      "730534221",
+      "443612361000",
+      "4436120500"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-062.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 53,
+    "title": "Bellows spring regulating valve",
+    "oems": [
+      "341350880",
+      "443624015702",
+      "4436121470"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-063.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 54,
+    "title": "Regulating Valve",
+    "oems": [
+      "317770570",
+      "443624015700",
+      "341530275",
+      "443612280704",
+      "4436121280"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-509.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 55,
+    "title": "Cross-Pin",
+    "oems": [
+      "341200060341200068",
+      "442072610034",
+      "2072610094",
+      "9903010920",
+      "336426072",
+      "442050210224442072610144",
+      "2072610144",
+      "341506070",
+      "442050210174",
+      "2050210174"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-065.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 56,
+    "title": "T1 Rear Axle Shaft",
+    "oems": [
+      "341320210",
+      "442020510274",
+      "9921000350"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-067.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 57,
+    "title": "T2 Rear Axle Shaft",
+    "oems": [
+      "341320214",
+      "442020510294",
+      "20205102949903002310"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-068.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 58,
+    "title": "Rear Axle Shaft V12",
+    "oems": [
+      "341320211",
+      "442020510284",
+      "9903001250"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-069.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 59,
+    "title": "Electromagnetic Valve T1",
+    "oems": [
+      "340530130",
+      "443643034800",
+      "4436410310"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-070.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 60,
+    "title": "Electromagnetic Valve T2",
+    "oems": [
+      "341530131",
+      "443643088800",
+      "4436410320"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-071.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 61,
+    "title": "Slient Block",
+    "oems": [
+      "340002281",
+      "273511051112442071510314",
+      "2071510314"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-072.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 62,
+    "title": "Prismatic Spring",
+    "oems": [
+      "341712281",
+      "273511051142442071510114",
+      "2071510114"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-073.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 63,
+    "title": "Silent Block",
+    "oems": [
+      "340602290",
+      "273511161402442071510084",
+      "2071510084"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-074.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 64,
+    "title": "Clutch Release Equipment",
+    "oems": [
+      "4429995130"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-075.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 65,
+    "title": "Release Bearing",
+    "oems": [
+      "9901008910"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-076.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 66,
+    "title": "Clutch Booster",
+    "oems": [
+      "4436122230",
+      "341195013",
+      "443613200704",
+      "4436121760"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-119.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 67,
+    "title": "Manual brake valve",
+    "oems": [
+      "4436120090"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-078.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 68,
+    "title": "Cabin pump",
+    "oems": [
+      "3364320260"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-079.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 69,
+    "title": "Hydraulic cylinder HZK MOQ 100pcs",
+    "oems": [
+      "40-0293802",
+      "3364320270"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-080.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 70,
+    "title": "Protective Bag Arctic",
+    "oems": [
+      "341329820",
+      "273124030054",
+      "2054391554"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-081.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 71,
+    "title": "Protective Bag Summer",
+    "oems": [
+      "341329820",
+      "442046900024",
+      "2046900024"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-082.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 72,
+    "title": "Brake Drum",
+    "oems": [
+      "341330190",
+      "442024110364",
+      "2024110364",
+      "301991010",
+      "325214098012",
+      "2024110444"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-083.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 73,
+    "title": "Wheel rim",
+    "oems": [
+      "8.5-20",
+      "317998987",
+      "325149800001",
+      "2022560254",
+      "3251120510"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-085.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 74,
+    "title": "Brake Lining",
+    "oems": [
+      "341393740",
+      "278611108200",
+      "2050870534",
+      "410x200",
+      "4439992440"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-087.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 75,
+    "title": "Brake Linning T163",
+    "oems": [
+      "4439992430"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-088.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 76,
+    "title": "Air drier",
+    "oems": [
+      "4436121140",
+      "4436120110"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-093.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 77,
+    "title": "Air drier LK8008",
+    "oems": [
+      "35110140050",
+      "4436122060"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-091.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 78,
+    "title": "Air drier insert T163",
+    "oems": [
+      "9907004690"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-092.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 79,
+    "title": "Turbocharger T163 K 36",
+    "oems": [
+      "4865120130"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-094.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 80,
+    "title": "Turbo-blower HX50W",
+    "oems": [
+      "3580995",
+      "4865120140",
+      "486512014000"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-753.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 81,
+    "title": "Fuel Filter",
+    "oems": [
+      "442900134000",
+      "4429001340",
+      "335968020",
+      "443741111000443741431000",
+      "4437410210"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-561.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 82,
+    "title": "Electric fuel pump T163",
+    "oems": [
+      "4437240120"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-097.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 83,
+    "title": "Valve ABS",
+    "oems": [
+      "35502100180",
+      "443612133000",
+      "4436121330"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-098.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 84,
+    "title": "Valve",
+    "oems": [
+      "1417413047",
+      "Wabco4341006020",
+      "4436120780",
+      "341054240",
+      "442070380024"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-102.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 85,
+    "title": "Control Valve Wabco",
+    "oems": [
+      "9730112010",
+      "35180190200",
+      "4436122140"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-101.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 86,
+    "title": "Pressure Limiting Valve",
+    "oems": [
+      "Wabco4750150390",
+      "4436121310"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-104.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 87,
+    "title": "Two-way valve 434 208 029 0",
+    "oems": [
+      "4436120850"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-105.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 88,
+    "title": "Stoplight switch",
+    "oems": [
+      "443400194000",
+      "4434001940"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-106.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 89,
+    "title": "T1 Clutch Plate",
+    "oems": [
+      "341150150",
+      "442170535359"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-107.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 90,
+    "title": "T2 Clutch plate",
+    "oems": [
+      "341150155341150151",
+      "442370535036442370535926",
+      "4429993140",
+      "420/210GSZ"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-108.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 91,
+    "title": "Clutch disk",
+    "oems": [
+      "4429995110",
+      "341058530",
+      "442013830024",
+      "2013830024"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-756.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 92,
+    "title": "Clutch plate T148",
+    "oems": [
+      "336150120",
+      "442070560064",
+      "336150112",
+      "442070530254"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-110.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 93,
+    "title": "Lining for Clutch Plate",
+    "oems": [
+      "341195740",
+      "442115565359",
+      "9901006360",
+      "2786450310"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-112.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 94,
+    "title": "T1 Release Bearing",
+    "oems": [
+      "341152800",
+      "324191520150",
+      "3241930010"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-113.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 95,
+    "title": "T2 Release Bearing",
+    "oems": [
+      "341152181",
+      "442370585166324191520170",
+      "9901006470"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-114.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 96,
+    "title": "Circuit Breaker",
+    "oems": [
+      "341915060",
+      "443815432020",
+      "4438150020"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-115.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 97,
+    "title": "T1 Leaf Spring",
+    "oems": [
+      "335350003",
+      "315226204802",
+      "3152313710"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-116.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 98,
+    "title": "T2 Leaf Spring",
+    "oems": [
+      "341350003",
+      "442075990544",
+      "3152320450"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-117.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 99,
+    "title": "Piston and Cylinder",
+    "oems": [
+      "341000211",
+      "442070830104",
+      "2070830104"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-118.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 100,
+    "title": "Clutch shaft",
+    "oems": [
+      "341150140",
+      "442071080484",
+      "2071080484"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-124.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 101,
+    "title": "T1 Front Wheel Hub",
+    "oems": [
+      "341430050",
+      "442074011354",
+      "2074011354",
+      "341330012",
+      "442074011334",
+      "9921001220"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-125.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 102,
+    "title": "T2 Front Wheel Hub",
+    "oems": [
+      "341430053",
+      "442074011414",
+      "9903004710",
+      "341330018",
+      "442074011404442000038000",
+      "9903002680"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-126.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 103,
+    "title": "Front Wheel Hub \uff08V12\uff09",
+    "oems": [
+      "341430051",
+      "442074011394",
+      "9921001240"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-127.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 104,
+    "title": "V12 Rear Wheel Hub",
+    "oems": [
+      "341330013",
+      "442074011364",
+      "9903001910"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-130.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 105,
+    "title": "Sealing cover for hub",
+    "oems": [
+      "341332080",
+      "442055930424",
+      "2055930424"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-131.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 106,
+    "title": "Wheel Bolt, front",
+    "oems": [
+      "341439090",
+      "442052381784",
+      "2052381784",
+      "341339091",
+      "442052381794",
+      "2052381794"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-132.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 107,
+    "title": "Nut",
+    "oems": [
+      "M22*2",
+      "341990170",
+      "311129996903",
+      "4431136290",
+      "341219310",
+      "442052571324",
+      "2052571324"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-134.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 108,
+    "title": "Elastic ring",
+    "oems": [
+      "336990090",
+      "442050660274",
+      "2050660274"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-135.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 109,
+    "title": "T2 Torsion Bar",
+    "oems": [
+      "336451371",
+      "442028660474",
+      "4429250300",
+      "2028660474",
+      "2028660434",
+      "336451370",
+      "442028660464",
+      "4429250290",
+      "2028660464",
+      "2028660444"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-137.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 110,
+    "title": "T1 Ball Joint Lh",
+    "oems": [
+      "341500443",
+      "442073410784"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-139.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 111,
+    "title": "T1Ball Joint Rh",
+    "oems": [
+      "341500442",
+      "442073410774"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-140.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 112,
+    "title": "T1 Hanger Yoke",
+    "oems": [
+      "341352520",
+      "442075720754",
+      "2075720754",
+      "341352522",
+      "442075720764",
+      "2075720764"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-141.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 113,
+    "title": "T2 Hanger Yoke",
+    "oems": [
+      "341352525",
+      "442075720964",
+      "2075720964",
+      "341352526",
+      "442075720974",
+      "2075720974"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-143.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 114,
+    "title": "Bisection Distribudor",
+    "oems": [
+      "341650441",
+      "336444312005",
+      "3364320230",
+      "341650446",
+      "336441312000",
+      "3364320210"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-145.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 115,
+    "title": "Piston Ring",
+    "oems": [
+      "326972022893",
+      "326972024274",
+      "327972522278",
+      "3192320560",
+      "3192320550",
+      "3192320570"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-146.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 116,
+    "title": "Conecting Head",
+    "oems": [
+      "390530320",
+      "443612386001",
+      "4436121090",
+      "397530324",
+      "443612386806",
+      "4436121070"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-147.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 117,
+    "title": "Connecting Head",
+    "oems": [
+      "390530322",
+      "443612387700",
+      "4436121030"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-149.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 118,
+    "title": "Direction Lamp, front",
+    "oems": [
+      "341922000",
+      "443312177103",
+      "4433120220",
+      "628-08/630-08"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-150.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 119,
+    "title": "Direction Lamp, Side",
+    "oems": [
+      "341922001",
+      "443312514103",
+      "4433120220",
+      "628-08/630-08"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-151.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 120,
+    "title": "Front flasher over",
+    "oems": [
+      "341922261",
+      "321821015317",
+      "634-04/636-04"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-152.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 121,
+    "title": "T815-1 Engine 10 CylinderTATRA S1",
+    "oems": [
+      "3-929-16",
+      "341001007",
+      "442070990864"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-153.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 122,
+    "title": "T815-1 Engine 10 CylinderTATRA VE",
+    "oems": [
+      "3-929-34",
+      "341001008",
+      "442070990884"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-154.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 123,
+    "title": "T815-2 Engine 10 CylinderT S1",
+    "oems": [
+      "3A-929-16",
+      "341001018",
+      "442070991134",
+      "2070991134"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-155.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 124,
+    "title": "T815-2 Engine 10 CylinderT VE",
+    "oems": [
+      "3A-929-34",
+      "341001017",
+      "442070991154",
+      "2070991154"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-156.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 125,
+    "title": "Engine 8",
+    "oems": [
+      "CylinderT3B-928.10/484",
+      "2070005024"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-157.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 126,
+    "title": "Engine 12 do V",
+    "oems": [
+      "CylinderT3-930-30",
+      "341000005",
+      "442070990214",
+      "81000"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-158.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 127,
+    "title": "Engine 12 od",
+    "oems": [
+      "CylinderT3-930-37",
+      "341001011",
+      "442070990944",
+      "81001V"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-159.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 128,
+    "title": "Gearbox",
+    "oems": [
+      "341200002",
+      "442071002104",
+      "2071002104"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-160.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 129,
+    "title": "Trensfer Gearbox",
+    "oems": [
+      "341230005",
+      "442072781384",
+      "2072781384"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-161.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 130,
+    "title": "Gearbox housing",
+    "oems": [
+      "341200020",
+      "442071050394",
+      "2071050394"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-162.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 131,
+    "title": "Housing",
+    "oems": [
+      "341230018",
+      "442072781784",
+      "341410110",
+      "442072510724",
+      "341411111",
+      "442072511224",
+      "2072511224"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-336.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 132,
+    "title": "Front Axle T1",
+    "oems": [
+      "341410001",
+      "442073001074",
+      "2073001074"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-164.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 133,
+    "title": "Front Axle T2",
+    "oems": [
+      "341410045",
+      "442073001604",
+      "2073001604"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-165.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 134,
+    "title": "Rear Axle 1st T1",
+    "oems": [
+      "341310021",
+      "442072501614",
+      "9921000980"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-166.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 135,
+    "title": "Rear Axle 1st T2",
+    "oems": [
+      "341311020",
+      "442072502344"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-167.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 136,
+    "title": "Rear Axle 2nd T1",
+    "oems": [
+      "341310031",
+      "442075201634",
+      "9921000990"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-168.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 137,
+    "title": "Rear Axle 2nd T2",
+    "oems": [
+      "341311021",
+      "442072502354"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-169.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 138,
+    "title": "Valve Insert",
+    "oems": [
+      "341020471",
+      "442050312144",
+      "2050312584"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-170.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 139,
+    "title": "Bush",
+    "oems": [
+      "341008010",
+      "442050312304",
+      "341008015",
+      "2075190654",
+      "341008012",
+      "442050312314",
+      "341008016",
+      "2075190664",
+      "341018010",
+      "323112913053",
+      "2050310204",
+      "341322580341328062",
+      "323424855163",
+      "9903001330",
+      "341428010",
+      "442050311604",
+      "2050311604",
+      "341318061",
+      "442050410244",
+      "2050410244"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-226.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 140,
+    "title": "T1 Fuel Return Tube",
+    "oems": [
+      "341060155341060158",
+      "442076631774442076631494"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-175.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 141,
+    "title": "T2 Return Tube",
+    "oems": [
+      "341061111",
+      "442076632074",
+      "2076632074"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-176.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 142,
+    "title": "Shaft sealing",
+    "oems": [
+      "150*180*15",
+      "959150215951150315",
+      "273525007321",
+      "2735213060",
+      "50*72*12",
+      "954050312",
+      "273521015017",
+      "2735211720",
+      "40*52*7",
+      "954040107",
+      "273521011121",
+      "27352103602735212860",
+      "60*80*13",
+      "954060213",
+      "273521017317",
+      "27352119809901006770",
+      "70*85*8",
+      "2735213660",
+      "10*19*7",
+      "2735210070",
+      "11*19*5",
+      "9901001780",
+      "17*28*7",
+      "2735221010",
+      "2735212860",
+      "40*62*7",
+      "2735212620",
+      "45*62*12",
+      "2735211580",
+      "45*72*12",
+      "9904000700",
+      "55*80*13",
+      "2735211840",
+      "60*80*8",
+      "9901006850",
+      "9901006770",
+      "60*90*13",
+      "2735212000",
+      "70*90*13",
+      "951070213",
+      "273525004721",
+      "2735212850",
+      "9901006760",
+      "70*100*13",
+      "2735212200",
+      "72*100*13",
+      "2735212230",
+      "85*110*13",
+      "2735212400",
+      "110*140*13",
+      "2735212730",
+      "ring150*170*15",
+      "273521269000",
+      "2735212690",
+      "150*170*15",
+      "160*190*15",
+      "2735212910"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-629.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 143,
+    "title": "Lower Lid",
+    "oems": [
+      "341002071",
+      "442010150184",
+      "2010150184"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-178.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 144,
+    "title": "Gasket for Lower Lid 0.5mm",
+    "oems": [
+      "341090905",
+      "627814358050442054032634"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-179.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 145,
+    "title": "Dipstick Guide",
+    "oems": [
+      "341004190",
+      "442076612344",
+      "341044147",
+      "2076612154"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-180.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 146,
+    "title": "Dipstick",
+    "oems": [
+      "341000500",
+      "442070460484",
+      "341040392",
+      "2070460424"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-182.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 147,
+    "title": "Crankshaft V10",
+    "oems": [
+      "341010013",
+      "442070060884",
+      "2070060884",
+      "341010010",
+      "442070060734",
+      "2070060734",
+      "2070061094",
+      "340100060",
+      "443915930115",
+      "4439100110"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-186.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 148,
+    "title": "Part of crankshaft V12",
+    "oems": [
+      "341010052",
+      "442010200764",
+      "2070060964"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-185.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 149,
+    "title": "Pin",
+    "oems": [
+      "341010042",
+      "442070060714",
+      "2010201034",
+      "341326082",
+      "442050230434",
+      "2050230434",
+      "341456010",
+      "442050030454",
+      "4426002380"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-344.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 150,
+    "title": "Part Of Crankshaft 1-5",
+    "oems": [
+      "341010081",
+      "442010200694",
+      "2070060924"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-188.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 151,
+    "title": "Part Of Crankshaft 2-4",
+    "oems": [
+      "341010051",
+      "442010200714",
+      "2070060914"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-189.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 152,
+    "title": "Part Of Crankshaft (middle)",
+    "oems": [
+      "341010050",
+      "442010200704",
+      "2070060934"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-190.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 153,
+    "title": "Crankshaft Pin",
+    "oems": [
+      "341010084",
+      "442010200894",
+      "2010200894"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-191.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 154,
+    "title": "Bearing",
+    "oems": [
+      "969401700",
+      "324496102700",
+      "3247910200",
+      "966491030966491001",
+      "324592491072",
+      "9903006130",
+      "4910",
+      "30212",
+      "963021298",
+      "324712125900",
+      "3247120800",
+      "963030799963022009",
+      "324712200100342712202000",
+      "3247120690",
+      "30220",
+      "30307",
+      "963030797963030999",
+      "324713075900324713072000",
+      "3247130190",
+      "32010",
+      "963201099",
+      "324715100320",
+      "9902001000",
+      "32012",
+      "963201299",
+      "324715127400",
+      "9902001010",
+      "NK70/25",
+      "3245450480",
+      "48290-48220",
+      "3247920010",
+      "JHM720249/720210",
+      "3247910230"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-729.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 155,
+    "title": "Torsional Damper",
+    "oems": [
+      "341010360",
+      "442070290084",
+      "4436120160"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-193.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 156,
+    "title": "Drive Gear Wheel",
+    "oems": [
+      "341020900",
+      "442012210124",
+      "2012210124"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-194.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 157,
+    "title": "Lower Thrust Bearing",
+    "oems": [
+      "341010121",
+      "323434181623323434181743",
+      "3231413710",
+      "341010120",
+      "323434181643323434181763",
+      "3231413750",
+      "3231423730"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-196.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 158,
+    "title": "Cover To Thrust Bearing",
+    "oems": [
+      "341002041",
+      "442055820454",
+      "2055820454"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-197.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 159,
+    "title": "Gear Rim",
+    "oems": [
+      "341010331",
+      "442010240154",
+      "20102401542010240164"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-198.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 160,
+    "title": "Sealing ring",
+    "oems": [
+      "341018530",
+      "442050762444",
+      "2050762444",
+      "800715535",
+      "326012002210",
+      "3192320400",
+      "341608400",
+      "442050910434",
+      "2050910434",
+      "341090950",
+      "273111531225",
+      "27311093102054170414",
+      "973211052",
+      "273111014524",
+      "2731102730",
+      "124.2x3",
+      "312094953",
+      "273111531555",
+      "9901000020",
+      "933214052",
+      "273111014604",
+      "2731102750",
+      "933228052",
+      "273111014844",
+      "2731102940",
+      "341491950",
+      "273111531685",
+      "2731101570",
+      "19.5\u04457.5",
+      "335092951",
+      "273111340705",
+      "2054240034",
+      "13.5x5",
+      "335094954",
+      "273111029175",
+      "2054240054"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-777.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 161,
+    "title": "Oil Filter",
+    "oems": [
+      "312040201",
+      "443745029800",
+      "4437452070",
+      "341040201341040202",
+      "442070850334",
+      "2070850394"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-201.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 162,
+    "title": "Rotor",
+    "oems": [
+      "335040251",
+      "443919760908",
+      "4439100250"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-202.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 163,
+    "title": "Oil Pump T1",
+    "oems": [
+      "341040003",
+      "442070200204",
+      "2070200264",
+      "341120202",
+      "336146466108"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-203.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 164,
+    "title": "Oil Pump T2 VE",
+    "oems": [
+      "341040007",
+      "442070200264",
+      "2070200264"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-204.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 165,
+    "title": "Oil Cooler",
+    "oems": [
+      "341040402",
+      "443512225103",
+      "4435120260",
+      "340040402",
+      "443512213109",
+      "4435120240"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-205.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 166,
+    "title": "Cartrige",
+    "oems": [
+      "341040230341040233",
+      "627936510305",
+      "4429003550"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-208.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 167,
+    "title": "Camshaft T1",
+    "oems": [
+      "341020300",
+      "442011520484"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-209.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 168,
+    "title": "Camshaft T2",
+    "oems": [
+      "341020303",
+      "442011520514",
+      "2011520514"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-210.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 169,
+    "title": "Valve Lifter",
+    "oems": [
+      "341020480",
+      "442070120064",
+      "2070120064",
+      "2070120124"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-211.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 170,
+    "title": "Tappet",
+    "oems": [
+      "341020500",
+      "442011600094",
+      "2011600094"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-213.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 171,
+    "title": "Protective Tube",
+    "oems": [
+      "335020530",
+      "442076630034",
+      "2076630034"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-214.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 172,
+    "title": "Oil return tube",
+    "oems": [
+      "335024181",
+      "442076630064",
+      "2076630064"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-215.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 173,
+    "title": "Rocker Support",
+    "oems": [
+      "341020431",
+      "442011000094",
+      "2011000094"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-216.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 174,
+    "title": "Intake Valve Rocker",
+    "oems": [
+      "341020411",
+      "442070150284",
+      "2070150284"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-217.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 175,
+    "title": "Exhaust Valve Rocker",
+    "oems": [
+      "341020421",
+      "442070150304",
+      "2070150304"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-218.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 176,
+    "title": "Connecting Rod Bolt",
+    "oems": [
+      "341019091",
+      "442052381754",
+      "2052381754"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-219.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 177,
+    "title": "Cylinder",
+    "oems": [
+      "341000200",
+      "442010010144",
+      "2010010144"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-220.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 178,
+    "title": "Piston",
+    "oems": [
+      "341090202",
+      "319231408280",
+      "3192310290"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-221.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 179,
+    "title": "Piston Abnormal",
+    "oems": [
+      "319231408282",
+      "319231408284",
+      "9901006370",
+      "9901006380"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-222.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 180,
+    "title": "Gudgeon Pin",
+    "oems": [
+      "908451102",
+      "319237451020",
+      "2050050094"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-223.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 181,
+    "title": "Connecting Rod",
+    "oems": [
+      "341010400",
+      "442070070254",
+      "2070070254",
+      "336100400",
+      "443919690148",
+      "9901000080"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-225.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 182,
+    "title": "Con. Rod Bushing STD",
+    "oems": [
+      "341010481341010482",
+      "323462739020323414881843",
+      "3231413620",
+      "6039-05/00"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-227.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 183,
+    "title": "Con. Rod Bushing",
+    "oems": [
+      "0.10",
+      "341010494",
+      "323041488442",
+      "9901006230",
+      "6039-05/1",
+      "0.20",
+      "341010495",
+      "323041488443",
+      "9901006240",
+      "6039-05/2",
+      "0.30",
+      "341010496",
+      "323041488444",
+      "9901006250",
+      "6039-05/3",
+      "0.40",
+      "341010497",
+      "323041488445",
+      "9901006260",
+      "6039-05/4",
+      "341100490",
+      "323414180423",
+      "9901000120"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-228.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 184,
+    "title": "Cylinder head sealing ring",
+    "oems": [
+      "336028530",
+      "442010100014442010100024",
+      "201010002431923207503192220750"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-232.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 185,
+    "title": "Cylinder Head",
+    "oems": [
+      "341020011",
+      "442070310584",
+      "2070310834"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-233.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 186,
+    "title": "Valve gasket",
+    "oems": [
+      "341028541",
+      "273111603000",
+      "2731116030"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-234.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 187,
+    "title": "Exhaust Valve Guide",
+    "oems": [
+      "341020203",
+      "442012610374",
+      "2012610344"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-235.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 188,
+    "title": "Intake Valve Seat",
+    "oems": [
+      "341020202",
+      "442012610344",
+      "2012610474"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-236.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 189,
+    "title": "Intake Valve",
+    "oems": [
+      "341020240",
+      "442012090204",
+      "2012090204"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-237.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 190,
+    "title": "Exhaust Valve",
+    "oems": [
+      "341020261",
+      "442012090314",
+      "2012090314"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-238.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 191,
+    "title": "Exhaust manifold front",
+    "oems": [
+      "341050605",
+      "442011651194",
+      "2011651194",
+      "341050600",
+      "442011650734",
+      "2011650734",
+      "341050604",
+      "442011651184",
+      "2011651184",
+      "341050601",
+      "442011650754",
+      "341050650",
+      "442011651834",
+      "2011651834"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-239.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 192,
+    "title": "Exhaust manifold central",
+    "oems": [
+      "341050603",
+      "442011651114",
+      "2011651114",
+      "341050602",
+      "442011651104",
+      "2011651104"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-240.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 193,
+    "title": "Sealing ring(Piston ring)",
+    "oems": [
+      "800075530",
+      "326010001610",
+      "3192320650"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-242.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 194,
+    "title": "Intake manifold gasket",
+    "oems": [
+      "335095916",
+      "627833108100442054030834",
+      "2054030834"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-247.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 195,
+    "title": "Exhaust manifold gasket",
+    "oems": [
+      "341095840341095850",
+      "278412201000442054070144",
+      "2054070144"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-248.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 196,
+    "title": "Screw",
+    "oems": [
+      "335029092",
+      "442052380324",
+      "2052380324"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-249.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 197,
+    "title": "Cylinder Head Cover",
+    "oems": [
+      "341020060",
+      "442010050084",
+      "2010050084"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-250.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 198,
+    "title": "Cylinder Head Cover T2",
+    "oems": [
+      "341020061",
+      "442010050094",
+      "2010050094"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-251.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 199,
+    "title": "Gasket",
+    "oems": [
+      "341092800",
+      "273114997904442054160624",
+      "2054020064",
+      "341946800",
+      "273111997394",
+      "9905001460"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-252.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 200,
+    "title": "Sensor",
+    "oems": [
+      "341982410",
+      "443429108989443429108981",
+      "4434290140"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-253.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 201,
+    "title": "Cylinder head compressor \u03c690",
+    "oems": [
+      "316100040",
+      "443919373106",
+      "9901000400"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-254.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 202,
+    "title": "Seat plate \u03c690",
+    "oems": [
+      "316104581",
+      "443919606301"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-255.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 203,
+    "title": "Cylinder dia 90 \u03c690",
+    "oems": [
+      "316100030",
+      "443915660514",
+      "9901000370"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-256.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 204,
+    "title": "Piston dia 90 \u03c690",
+    "oems": [
+      "316190200",
+      "319231206950",
+      "9901000160"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-257.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 205,
+    "title": "Piston ring dia 90 \u03c690",
+    "oems": [
+      "844490540",
+      "327971511831"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-258.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 206,
+    "title": "Gudgeon pin \u03c690",
+    "oems": [
+      "908200058",
+      "441050051926"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-259.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 207,
+    "title": "Connecting rod \u03c690",
+    "oems": [
+      "341100400",
+      "443919690148",
+      "9901000080"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-260.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 208,
+    "title": "Crankshaft \u03c690",
+    "oems": [
+      "341100061",
+      "443915930136",
+      "9901000070"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-261.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 209,
+    "title": "Housing cover \u03c690",
+    "oems": [
+      "341102080",
+      "443915681403"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-262.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 210,
+    "title": "Compressor box \u03c690",
+    "oems": [
+      "341100022",
+      "443915680134"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-263.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 211,
+    "title": "Cylinder head compressor 80",
+    "oems": [
+      "340100040",
+      "443915660112",
+      "4439100060"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-264.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 212,
+    "title": "Cylinder dia 80",
+    "oems": [
+      "340100030",
+      "443915660510",
+      "4439100070"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-265.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 213,
+    "title": "Seat plate",
+    "oems": [
+      "340100200",
+      "443919810203",
+      "4439100260"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-266.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 214,
+    "title": "Piston dia 80",
+    "oems": [
+      "336190200",
+      "319231206060",
+      "3192342000"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-267.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 215,
+    "title": "Piston ring dia 80",
+    "oems": [
+      "850080545834080525",
+      "327160601682327971011679",
+      "32716000103279700110"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-268.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 216,
+    "title": "Fan drive",
+    "oems": [
+      "2070400734"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-271.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 217,
+    "title": "Hydraulic Clutch",
+    "oems": [
+      "341050900",
+      "442079250264",
+      "2079250264"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-272.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 218,
+    "title": "Fan Shaft",
+    "oems": [
+      "341050450",
+      "442070750334",
+      "2070750334"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-273.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 219,
+    "title": "Injection Valve T1",
+    "oems": [
+      "341966050",
+      "443979572681"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-275.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 220,
+    "title": "Injection Valve T2",
+    "oems": [
+      "341966054",
+      "443979572688",
+      "4437130400"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-276.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 221,
+    "title": "Neck for Injector",
+    "oems": [
+      "341966400",
+      "443972626478",
+      "4439700320"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-277.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 222,
+    "title": "Injection pump T1",
+    "oems": [
+      "341961011",
+      "443711011549"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-278.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 223,
+    "title": "Injection pump T2",
+    "oems": [
+      "341961075",
+      "443711011493",
+      "4437112260"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-279.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 224,
+    "title": "Electromagnetic Valve\uff08Injection pummp)",
+    "oems": [
+      "341054242",
+      "358821420120",
+      "3588210010"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-280.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 225,
+    "title": "Guide",
+    "oems": [
+      "341060210",
+      "442076612334",
+      "2076612334"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-281.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 226,
+    "title": "Delivery Pump",
+    "oems": [
+      "336965011",
+      "443979642239",
+      "9901005190"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-282.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 227,
+    "title": "Output Regulator RV 15A",
+    "oems": [
+      "341962011",
+      "443979612874",
+      "9901005150",
+      "300/1100-",
+      "2879"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-283.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 228,
+    "title": "Injection Advance Device AM 4A",
+    "oems": [
+      "341964011",
+      "443979681335",
+      "9901005210",
+      "4P-1338"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-284.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 229,
+    "title": "Oil pressure switch",
+    "oems": [
+      "353094202",
+      "443852042000"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-285.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 230,
+    "title": "Belt",
+    "oems": [
+      "942075012",
+      "272742700750"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-286.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 231,
+    "title": "Alternator T815-1",
+    "oems": [
+      "336902011",
+      "443113516350"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-287.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 232,
+    "title": "T1 Voltage Regulator",
+    "oems": [
+      "341907051",
+      "443116419860"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-289.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 233,
+    "title": "T2 Voltage Regulator",
+    "oems": [
+      "443930134731",
+      "9901006610"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-290.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 234,
+    "title": "Carrier of diodes",
+    "oems": [
+      "360901500",
+      "443930131450"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-291.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 235,
+    "title": "Rectifying block",
+    "oems": [
+      "115901500",
+      "443930133700",
+      "9901002700"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-292.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 236,
+    "title": "Switch T1",
+    "oems": [
+      "390905292",
+      "443936800490"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-293.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 237,
+    "title": "Switch T2",
+    "oems": [
+      "341905010",
+      "443930159740",
+      "9901004370"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-294.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 238,
+    "title": "T1 Starter",
+    "oems": [
+      "341905000",
+      "443115187724"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-295.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 239,
+    "title": "T2 Starter",
+    "oems": [
+      "341905002",
+      "443115187340",
+      "4431150230"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-296.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 240,
+    "title": "Needle bush",
+    "oems": [
+      "969640355",
+      "324591312900",
+      "3245920010"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-297.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 241,
+    "title": "Clutch housing",
+    "oems": [
+      "341150011",
+      "442016100234",
+      "2016100324"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-298.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 242,
+    "title": "Pin for main cylinder",
+    "oems": [
+      "341526020",
+      "442050060314",
+      "4426002470"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-300.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 243,
+    "title": "Delivery Valve",
+    "oems": [
+      "397969920341969910",
+      "443978704106443978704317",
+      "9901000450"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-301.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 244,
+    "title": "Valve Plunger T815-1 A9K\u222307",
+    "oems": [
+      "341969100",
+      "443978710107"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-302.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 245,
+    "title": "Valve Plunger T815-2 A9K\u2223S",
+    "oems": [
+      "341969101",
+      "443978710202",
+      "9901000440"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-303.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 246,
+    "title": "Valve Plunger 8*8 A9\u2223K",
+    "oems": [
+      "336969102",
+      "443978710106",
+      "4439700610"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-304.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 247,
+    "title": "Nozzle T815-1 DOP 140S",
+    "oems": [
+      "341967150",
+      "443978584369",
+      "435-4369"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-305.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 248,
+    "title": "Nozzle T815-2 DOP 134S",
+    "oems": [
+      "341967155",
+      "443978584102",
+      "9901002270",
+      "440-4102"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-306.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 249,
+    "title": "Nozzle 12 Cylinder YJ ZCK 150S 435",
+    "oems": [
+      "341967151",
+      "443978584368",
+      "4439700580"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-307.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 250,
+    "title": "Propeller Shaft",
+    "oems": [
+      "341200051341201050",
+      "442072000684442072000724",
+      "2072000724",
+      "341310380",
+      "442020030834",
+      "2020030834"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-308.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 251,
+    "title": "Drive Shaft T1",
+    "oems": [
+      "341210010",
+      "442016800324"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-309.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 252,
+    "title": "Drive Shaft T2",
+    "oems": [
+      "341210012",
+      "442071030364",
+      "2071030364"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-310.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 253,
+    "title": "Layshaft",
+    "oems": [
+      "341210121",
+      "442016840124",
+      "2016840124"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-311.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 254,
+    "title": "Driven Shaft",
+    "oems": [
+      "341210030",
+      "442071080444",
+      "2071080444"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-312.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 255,
+    "title": "Drive Gear",
+    "oems": [
+      "341210145",
+      "442071040974",
+      "341-211140",
+      "341210144",
+      "442071040984"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-313.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 256,
+    "title": "Reverse Run Gear",
+    "oems": [
+      "341210220",
+      "442017270114",
+      "2017270114"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-315.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 257,
+    "title": "Gear of speed 1",
+    "oems": [
+      "341210050",
+      "442017220264",
+      "2017220264"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-316.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 258,
+    "title": "Gear of Speed 2",
+    "oems": [
+      "341210061341210064",
+      "442017220614",
+      "2017220614"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-317.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 259,
+    "title": "Gear of Speed 3",
+    "oems": [
+      "341210074341210072",
+      "442071040964442017220484"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-318.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 260,
+    "title": "Geal of Speed 4",
+    "oems": [
+      "341210081",
+      "442071040954"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-319.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 261,
+    "title": "Gear of Speed 5",
+    "oems": [
+      "341210091",
+      "442071040944"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-320.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 262,
+    "title": "Connecting gear 3",
+    "oems": [
+      "341211323",
+      "442016790564",
+      "2016790564"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-321.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 263,
+    "title": "Connecting gear 4",
+    "oems": [
+      "341211322",
+      "442016790554",
+      "2016790554"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-322.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 264,
+    "title": "Gear shift mechanism housing",
+    "oems": [
+      "341220614",
+      "442071720404",
+      "2071720404"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-323.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 265,
+    "title": "Connecting Sleeve 1-R",
+    "oems": [
+      "341212151",
+      "442016600514",
+      "2016600514"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-324.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 266,
+    "title": "Synchro-Mesh 2-3",
+    "oems": [
+      "341210305341210306",
+      "442071480354",
+      "2071480354"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-325.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 267,
+    "title": "Synchro-mesh 4-5",
+    "oems": [
+      "341210304341210308",
+      "442071480344",
+      "2071480344"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-326.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 268,
+    "title": "Synchro-mesh h-l",
+    "oems": [
+      "341210307",
+      "442071480364"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-327.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 269,
+    "title": "Synchro-Mesh Cone 2-3",
+    "oems": [
+      "341210324341210328",
+      "442016790634",
+      "2016790634"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-328.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 270,
+    "title": "Synchro-mesh cone h-l 4-5",
+    "oems": [
+      "341210323341210327",
+      "442016790644",
+      "2016790644"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-329.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 271,
+    "title": "connecting sleeve h-l 4-5",
+    "oems": [
+      "341210403",
+      "442016600674",
+      "2016600674"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-330.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 272,
+    "title": "Pump Housing",
+    "oems": [
+      "341200090341200092",
+      "442070160204",
+      "2070160204"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-331.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 273,
+    "title": "Oil Pump T2",
+    "oems": [
+      "341120212",
+      "336146158461",
+      "9921001760"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-333.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 274,
+    "title": "Power take-off drive T2",
+    "oems": [
+      "341141202",
+      "442071700714",
+      "2071700714"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-334.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 275,
+    "title": "Clamping Ring",
+    "oems": [
+      "335328610",
+      "442054490094",
+      "2054490394",
+      "335328611341328610",
+      "442054490334",
+      "2054490404"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-337.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 276,
+    "title": "Spacer Bush",
+    "oems": [
+      "341328090",
+      "442050360524",
+      "2050360524",
+      "341318062",
+      "442050311594",
+      "2050311594"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-339.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 277,
+    "title": "Alf-Axle Lh T1",
+    "oems": [
+      "341420010",
+      "442072531284"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-340.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 278,
+    "title": "Alf-Axle Lh T2",
+    "oems": [
+      "341421013",
+      "442072532234",
+      "2072532234"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-341.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 279,
+    "title": "Half-Axle Rh T1",
+    "oems": [
+      "341420020",
+      "442072531474"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-342.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 280,
+    "title": "Half-Axle Rh T2",
+    "oems": [
+      "341421023",
+      "442072532244",
+      "2072532244"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-343.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 281,
+    "title": "Packing Piece",
+    "oems": [
+      "341429750",
+      "442050920854",
+      "2050920854"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-346.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 282,
+    "title": "Bush Of Bearings",
+    "oems": [
+      "341318060",
+      "442050410234",
+      "2050410234"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-347.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 283,
+    "title": "Adjusting Nut",
+    "oems": [
+      "341319351",
+      "442020870164",
+      "2020870164",
+      "341329351",
+      "442020850064",
+      "2020850064"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-349.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 284,
+    "title": "Lock washer",
+    "oems": [
+      "341319653",
+      "442051050174",
+      "2051050174"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-350.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 285,
+    "title": "Articulated Shaft",
+    "oems": [
+      "341420160",
+      "442073150544",
+      "4420711020"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-352.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 286,
+    "title": "T2 Articulated Shaft",
+    "oems": [
+      "341421160",
+      "442073150564",
+      "442073150664",
+      "442073150574",
+      "2073150664"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-353.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 287,
+    "title": "Cross Articulated Shaft",
+    "oems": [
+      "341420211",
+      "442021270354442021270474",
+      "20212703542021270474"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-354.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 288,
+    "title": "Driven Articulated Shaft",
+    "oems": [
+      "341420220341420222",
+      "442021270424442021270444",
+      "20212704242021270444"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-355.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 289,
+    "title": "Cross pin for propellar shaft",
+    "oems": [
+      "341200061",
+      "442072610034",
+      "4420710640",
+      "341200065",
+      "442072610094",
+      "2072610094"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-357.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 290,
+    "title": "Central Part",
+    "oems": [
+      "336420181",
+      "442019010084",
+      "2019010084"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-359.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 291,
+    "title": "Protective Basket",
+    "oems": [
+      "336312134",
+      "442078660264",
+      "2078660264",
+      "336312135",
+      "442078660274",
+      "2078660274",
+      "336312133",
+      "442078660254",
+      "2078660254"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-428.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 292,
+    "title": "Disk Gear Hub",
+    "oems": [
+      "341412201",
+      "442072680414"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-362.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 293,
+    "title": "T2 Disk Gear Hub",
+    "oems": [
+      "341412201",
+      "442072680414",
+      "2072680414"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-363.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 294,
+    "title": "Lock Nut",
+    "oems": [
+      "341329350",
+      "442052570854",
+      "2052570854",
+      "442052670064",
+      "2052670064",
+      "T000767"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-364.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 295,
+    "title": "Adjusting Bush",
+    "oems": [
+      "341328091",
+      "442075190324",
+      "2075190324"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-365.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 296,
+    "title": "Slotted nut",
+    "oems": [
+      "341339350",
+      "442052571334",
+      "2052571334"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-367.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 297,
+    "title": "Set washer",
+    "oems": [
+      "335339660",
+      "442051190084",
+      "2051190084"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-368.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 298,
+    "title": "Spacer",
+    "oems": [
+      "341338530",
+      "442020870244",
+      "2020870244"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-370.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 299,
+    "title": "Covering sheet",
+    "oems": [
+      "341322110",
+      "442050990854",
+      "2050990854"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-371.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 300,
+    "title": "Run-In Gearing",
+    "oems": [
+      "341310312",
+      "442072850374",
+      "442072850384",
+      "442072850714",
+      "2072850714",
+      "341310311",
+      "442012850384",
+      "442072850524",
+      "442072850724",
+      "2072850724"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-372.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 301,
+    "title": "King Pin",
+    "oems": [
+      "341420430",
+      "442073011424",
+      "341420440",
+      "442073011414"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-375.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 302,
+    "title": "T2 King Pin",
+    "oems": [
+      "341421431",
+      "442073011594",
+      "341421441",
+      "442073101604"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-377.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 303,
+    "title": "Brake Cam",
+    "oems": [
+      "341330163",
+      "442024710434",
+      "20247104349903005700",
+      "341330164",
+      "442024710444",
+      "20247104449903005710"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-380.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 304,
+    "title": "Suppurting Socket",
+    "oems": [
+      "336426251",
+      "442050270074",
+      "2050270074"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-382.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 305,
+    "title": "Brake Cam Lever",
+    "oems": [
+      "341430175",
+      "442074670504",
+      "2074670504",
+      "341430174",
+      "442074670494",
+      "20746704949903005730",
+      "341330175",
+      "442074670514442071115000",
+      "2074670514",
+      "341330176",
+      "442074670524442070589000",
+      "2074670524"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-383.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 306,
+    "title": "Front Bracket T1",
+    "oems": [
+      "341452421",
+      "442030620284",
+      "341452420",
+      "442030620274"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-387.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 307,
+    "title": "Front Bracket T2",
+    "oems": [
+      "336352424",
+      "442030620194",
+      "2030620194",
+      "336352425",
+      "442030620184",
+      "2030620184"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-388.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 308,
+    "title": "Torsion Bar Arm T1",
+    "oems": [
+      "341450360",
+      "442030580134",
+      "341450361",
+      "442030580144"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-391.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 309,
+    "title": "Torsion Bar Arm T2",
+    "oems": [
+      "341450364",
+      "442030580214",
+      "2030580214",
+      "341450365",
+      "442030580224",
+      "2030580224"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-392.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 310,
+    "title": "Lens",
+    "oems": [
+      "336356290",
+      "442051500254",
+      "2051500254",
+      "335357291",
+      "442051500344",
+      "336-356291",
+      "2051500344",
+      "4425550280"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-436.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 311,
+    "title": "Hinge",
+    "oems": [
+      "335453510",
+      "442031510024",
+      "2031510024",
+      "336606374",
+      "442031510134",
+      "2031510134",
+      "336606375",
+      "442031510144",
+      "2031510144",
+      "336606376",
+      "442031510154",
+      "2031510154"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-397.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 312,
+    "title": "T2 Hinge A 234MM",
+    "oems": [
+      "341452510",
+      "442031510174",
+      "2031510174",
+      "330-27"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-401.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 313,
+    "title": "T2 Hinge B 250MM",
+    "oems": [
+      "341452511",
+      "442031510184",
+      "2031510184",
+      "330-28"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-402.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 314,
+    "title": "T2 Hinge C 266MM",
+    "oems": [
+      "341452512",
+      "442031510194",
+      "2031510194",
+      "330-29"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-403.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 315,
+    "title": "T2 Hinge D 282MM",
+    "oems": [
+      "341452513",
+      "442031510204",
+      "2031510204",
+      "330-30"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-404.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 316,
+    "title": "Brake Shoe",
+    "oems": [
+      "341330140341330142",
+      "442074560314442074560494",
+      "2074560494"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-405.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 317,
+    "title": "Bush for Brake Shoe",
+    "oems": [
+      "109428011",
+      "323251025262",
+      "3232500010"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-406.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 318,
+    "title": "Roller",
+    "oems": [
+      "340332800",
+      "442050300064",
+      "2050300064"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-407.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 319,
+    "title": "Stacer Ling T1",
+    "oems": [
+      "341438510",
+      "442050710224"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-408.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 320,
+    "title": "Stacer Ling T2",
+    "oems": [
+      "341438511",
+      "442050710264",
+      "2050710264"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-409.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 321,
+    "title": "Front Back-Bone Tube",
+    "oems": [
+      "341400023341401020",
+      "442072022164",
+      "2072022164"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-410.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 322,
+    "title": "Differential",
+    "oems": [
+      "341410171341410173",
+      "442072700554442072700594",
+      "2072700594",
+      "341310171341310176",
+      "442072700414442072700644",
+      "2072700644"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-411.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 323,
+    "title": "Balancing Gear",
+    "oems": [
+      "341410260",
+      "442020720294",
+      "2020720294",
+      "341310260341310262",
+      "442020720264442020720374",
+      "2020720264",
+      "341310261341310263",
+      "442020720254442020720384",
+      "2020720254"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-412.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 324,
+    "title": "Control Cylinder",
+    "oems": [
+      "341410610",
+      "442075320134",
+      "2075320134",
+      "341310610",
+      "442075320124",
+      "2075320124"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-413.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 325,
+    "title": "Spring",
+    "oems": [
+      "335338120",
+      "315115001150442050520164",
+      "2050520164",
+      "317770540",
+      "443624050003443624050010",
+      "9907004410"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-414.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 326,
+    "title": "Hinge D",
+    "oems": [
+      "336606376",
+      "442031510154"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-415.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 327,
+    "title": "Front Drive Shaft",
+    "oems": [
+      "341400110",
+      "442018810734",
+      "2018810734"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-416.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 328,
+    "title": "Differential S1",
+    "oems": [
+      "3.10-02",
+      "341310170341310175",
+      "442072700584"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-418.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 329,
+    "title": "Differential VE",
+    "oems": [
+      "3.10-02",
+      "341310172",
+      "442072700504"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-419.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 330,
+    "title": "Shifter Fork",
+    "oems": [
+      "341312920",
+      "442017410614",
+      "2017410614"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-421.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 331,
+    "title": "Central Gear",
+    "oems": [
+      "341310270",
+      "442020710414",
+      "2020710414"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-423.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 332,
+    "title": "Axle differential S1",
+    "oems": [
+      "341410181",
+      "442072660444"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-424.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 333,
+    "title": "Rear Bac-Bone Tube",
+    "oems": [
+      "341300022",
+      "442072021954"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-425.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 334,
+    "title": "First Rear-Axle Housing",
+    "oems": [
+      "341310110",
+      "442072510734"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-427.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 335,
+    "title": "T1 Rear Half-Axle",
+    "oems": [
+      "341320011",
+      "442072531984",
+      "341320010",
+      "442072531974"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-429.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 336,
+    "title": "T2Rear Half-Axle Lh",
+    "oems": [
+      "341321021",
+      "442072532284"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-431.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 337,
+    "title": "T2 Rear Half-Axle Rh",
+    "oems": [
+      "341320029",
+      "442072532274"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-432.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 338,
+    "title": "Connecting Part",
+    "oems": [
+      "341300210341301216",
+      "442075600464442075600864",
+      "2075600864"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-433.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 339,
+    "title": "Clamping Pad",
+    "oems": [
+      "336350460",
+      "442031580054",
+      "2031580054"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-434.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 340,
+    "title": "Glide block",
+    "oems": [
+      "335607281",
+      "442031840014",
+      "2031840014"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-435.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 341,
+    "title": "Lock Yoke",
+    "oems": [
+      "335352561",
+      "442075720074",
+      "2075720074"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-437.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 342,
+    "title": "Lock",
+    "oems": [
+      "341352560",
+      "341352561",
+      "341452560",
+      "442075720664",
+      "442075720804",
+      "442075720794",
+      "2075720794"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-438.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 343,
+    "title": "Cross-Girder",
+    "oems": [
+      "341600295",
+      "442075571534",
+      "2075571534"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-439.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 344,
+    "title": "Central Propeller Shaft",
+    "oems": [
+      "341300110",
+      "442018810744",
+      "2018810744"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-440.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 345,
+    "title": "T1 Spring Yoke",
+    "oems": [
+      "336350410",
+      "442031570144"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-441.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 346,
+    "title": "T2 Spring Yoke",
+    "oems": [
+      "341350411",
+      "442031570454"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-442.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 347,
+    "title": "First Leaf 1410MM",
+    "oems": [
+      "335350012",
+      "315226614802",
+      "9921008410",
+      "341350011",
+      "315252637010",
+      "9903006160"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-443.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 348,
+    "title": "Second Leaf",
+    "oems": [
+      "335350022",
+      "315226624802",
+      "9921008400",
+      "341350021",
+      "315252637020",
+      "9903006170",
+      "340356250",
+      "442050270304",
+      "2050270304"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-468.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 349,
+    "title": "Third Leaf 1210MM",
+    "oems": [
+      "335350032",
+      "315226634802",
+      "341350031",
+      "315252637030",
+      "9903006290"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-457.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 350,
+    "title": "Forth Leaf 1130MM",
+    "oems": [
+      "335350042",
+      "315226644802",
+      "341350041",
+      "315252637040",
+      "9903006190"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-458.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 351,
+    "title": "Fifth Leaf 1030MM",
+    "oems": [
+      "335350052",
+      "315226654802",
+      "341350051",
+      "315252637050",
+      "9903006200"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-459.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 352,
+    "title": "Sixth Leaf 930MM",
+    "oems": [
+      "335350062",
+      "315226664802",
+      "341350061",
+      "315252637060",
+      "9903006210"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-460.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 353,
+    "title": "Seventh Leaf 830MM",
+    "oems": [
+      "335350072",
+      "315226674802",
+      "341350071",
+      "315252637070",
+      "9903006220"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-461.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 354,
+    "title": "Eighth Leaf 730MM",
+    "oems": [
+      "335350082",
+      "315226684802",
+      "341350081",
+      "315252637080",
+      "9903006230"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-462.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 355,
+    "title": "Ninth Leaf 630MM",
+    "oems": [
+      "335350092",
+      "315226694802",
+      "341350091",
+      "315252637090",
+      "9903006240"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-463.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 356,
+    "title": "Tenth Leaf 530MM",
+    "oems": [
+      "335350102",
+      "315226704802",
+      "341350101",
+      "315252637100",
+      "9903006250"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-464.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 357,
+    "title": "Eleventh Leaf 430MM",
+    "oems": [
+      "335350112",
+      "315226714802",
+      "341350111",
+      "315252637110",
+      "9903006260"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-465.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 358,
+    "title": "Twelfth Leaf 330MM",
+    "oems": [
+      "335350122",
+      "315226724802",
+      "341350121",
+      "315252637120",
+      "9903006270"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-466.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 359,
+    "title": "Thirteenth Leaf 240MM",
+    "oems": [
+      "341350131",
+      "315252637130",
+      "9903006280"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-467.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 360,
+    "title": "Supporting Pin",
+    "oems": [
+      "341356081341456080",
+      "442050230374442050230364",
+      "2050230364"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-469.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 361,
+    "title": "Supporting Socket",
+    "oems": [
+      "340356251",
+      "442050270294"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-470.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 362,
+    "title": "Telescopic Damper",
+    "oems": [
+      "341495000",
+      "443621701000",
+      "4436210070"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-471.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 363,
+    "title": "Damper Pin",
+    "oems": [
+      "341606081",
+      "442052381864",
+      "2052381864"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-472.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 364,
+    "title": "Telescopic Damper P",
+    "oems": [
+      "50x250",
+      "340395000",
+      "443621016000443621025000",
+      "4436210250"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-473.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 365,
+    "title": "Front Brake Hose",
+    "oems": [
+      "341534310341534314",
+      "336641551023",
+      "4436111000",
+      "13*680",
+      "341596971",
+      "336641372211",
+      "4436540310",
+      "8*3208*340"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-474.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 366,
+    "title": "Exhaust Silencer",
+    "oems": [
+      "341600501",
+      "341600507",
+      "341600508",
+      "442075900724",
+      "20759009442075900884"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-476.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 367,
+    "title": "End Tube S1",
+    "oems": [
+      "341600570",
+      "442075911504",
+      "2075911504"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-477.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 368,
+    "title": "Tube To Exhaust",
+    "oems": [
+      "341600553",
+      "442075911414"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-478.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 369,
+    "title": "Clamping Belt",
+    "oems": [
+      "341602590341602594",
+      "442076060414442076060524",
+      "2076060524"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-479.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 370,
+    "title": "Bifarcation",
+    "oems": [
+      "341600590",
+      "442070350874",
+      "2075911474"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-480.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 371,
+    "title": "Exhaust Tube",
+    "oems": [
+      "341600543",
+      "442075910794",
+      "2075912244",
+      "341600550",
+      "442075910784",
+      "2075912254",
+      "341971640",
+      "443960521608",
+      "4439600070"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-590.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 372,
+    "title": "Exhaust Brake",
+    "oems": [
+      "341540001",
+      "442075300124",
+      "2075300124"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-483.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 373,
+    "title": "Tube",
+    "oems": [
+      "341602150",
+      "442075911394",
+      "2075911394"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-484.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 374,
+    "title": "Ring",
+    "oems": [
+      "341608401",
+      "442050910344",
+      "2050910344"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-486.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 375,
+    "title": "Steering Wheel",
+    "oems": [
+      "390590010",
+      "443821038068",
+      "443821100067",
+      "443821009000",
+      "4438210090"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-488.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 376,
+    "title": "Ball bush",
+    "oems": [
+      "341508060",
+      "442050420074",
+      "2050420074"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-489.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 377,
+    "title": "Steering Tie-Rod",
+    "oems": [
+      "341500414",
+      "442021210374",
+      "2021210374",
+      "341500411",
+      "627962310521442021210254",
+      "2021210254"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-490.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 378,
+    "title": "Protective Bag for Ball Joint",
+    "oems": [
+      "341590804",
+      "273124021414"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-492.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 379,
+    "title": "T2 Ball Joint",
+    "oems": [
+      "341501440",
+      "442073410924",
+      "341501442",
+      "442073410934"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-493.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 380,
+    "title": "Upper Spindle",
+    "oems": [
+      "341500050",
+      "442073550114",
+      "2073550114"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-496.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 381,
+    "title": "Servo-Steering Cylinder RV60",
+    "oems": [
+      "341500620",
+      "341500621",
+      "341500622",
+      "336711465402",
+      "336711155031",
+      "3367110130"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-497.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 382,
+    "title": "Servo-Steering Cylinder RV78",
+    "oems": [
+      "336711465403"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-498.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 383,
+    "title": "Steering Gearbox",
+    "oems": [
+      "341500010",
+      "442073750144442073750154",
+      "2073750154"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-499.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 384,
+    "title": "Spindle Holder T1",
+    "oems": [
+      "341502311",
+      "442022220104"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-500.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 385,
+    "title": "Spindle Holder T2",
+    "oems": [
+      "341502317",
+      "442022220214",
+      "2022220214"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-501.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 386,
+    "title": "Cylinder Tie-Rod",
+    "oems": [
+      "341500401",
+      "442075063394"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-502.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 387,
+    "title": "Hydraulic Cylinder",
+    "oems": [
+      "335660500335660503",
+      "336314132219336315430594",
+      "3363110020"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-503.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 388,
+    "title": "Bisection Distributor",
+    "oems": [
+      "341650440",
+      "336449312000"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-505.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 389,
+    "title": "Pneumatic Valve",
+    "oems": [
+      "341120100",
+      "337261130101337154134515",
+      "3364320170"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-506.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 390,
+    "title": "Disconnecting Valve",
+    "oems": [
+      "341650241",
+      "336525312001",
+      "3364320160"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-507.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 391,
+    "title": "Hydraulic Jack",
+    "oems": [
+      "336650005336650003",
+      "336313312700336313310259",
+      "3369000360"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-508.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 392,
+    "title": "Blow-Off Valve",
+    "oems": [
+      "341530230",
+      "443612356000",
+      "4436120650"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-510.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 393,
+    "title": "Air Reservoir 40L",
+    "oems": [
+      "340530100340530101",
+      "443612461808",
+      "4429001740"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-511.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 394,
+    "title": "Anti-Freeze Pump",
+    "oems": [
+      "390530190",
+      "443612011000",
+      "4436420020"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-512.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 395,
+    "title": "Windscreen Wiper T1",
+    "oems": [
+      "341930021",
+      "443122085081"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-513.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 396,
+    "title": "Windscreen Wiper T2",
+    "oems": [
+      "4431220210"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-514.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 397,
+    "title": "Wiper Leverage",
+    "oems": [
+      "341930220",
+      "443124084010",
+      "4431240180"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-515.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 398,
+    "title": "Wiper Blade",
+    "oems": [
+      "341930051",
+      "443123195020443123262020",
+      "4431230240"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-516.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 399,
+    "title": "Gear-shift lever",
+    "oems": [
+      "341512613",
+      "442071110784442071110784",
+      "2071110784",
+      "341512610",
+      "442071110744",
+      "2071110744"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-517.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 400,
+    "title": "Gear-Shift Bearing",
+    "oems": [
+      "341510131",
+      "442071290054",
+      "2071290054"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-519.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 401,
+    "title": "Driver's seat",
+    "oems": [
+      "341770210",
+      "442994420091442974040474",
+      "2974040474"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-520.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 402,
+    "title": "Telescopic Shock Absorber",
+    "oems": [
+      "390797000",
+      "443621900000443621111801",
+      "4436250020"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-522.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 403,
+    "title": "Source Of Impulses",
+    "oems": [
+      "341971210341971211",
+      "443522800000443522800003",
+      "9907000360"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-523.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 404,
+    "title": "Flasher Change-Over Switch",
+    "oems": [
+      "340939100",
+      "443853040053",
+      "4438531140"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-524.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 405,
+    "title": "Change-Over Switch",
+    "oems": [
+      "317939102",
+      "443853186051"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-525.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 406,
+    "title": "T2 distance lamp switch",
+    "oems": [
+      "341939130",
+      "443853268040",
+      "4438530180"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-526.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 407,
+    "title": "T2 Flasher change over switch",
+    "oems": [
+      "341939100",
+      "443853271090",
+      "4438530160"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-527.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 408,
+    "title": "T2 wiper switch",
+    "oems": [
+      "341939101",
+      "443853272090",
+      "4438530170"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-528.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 409,
+    "title": "Speedometer drive wheel",
+    "oems": [
+      "341410720",
+      "442018020274",
+      "2018020274"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-529.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 410,
+    "title": "Tachograph drive",
+    "oems": [
+      "341981094341980097",
+      "443441300800"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-530.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 411,
+    "title": "Revolution Counter Drive",
+    "oems": [
+      "341980098",
+      "443441280800443441096042",
+      "4434410260"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-531.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 412,
+    "title": "Revolution counter (black)",
+    "oems": [
+      "341980051",
+      "443412127981",
+      "4434150130"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-532.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 413,
+    "title": "Revolution counter",
+    "oems": [
+      "340980051",
+      "443412028001",
+      "4434120020"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-533.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 414,
+    "title": "Exhaust Brake Switch",
+    "oems": [
+      "341939030",
+      "443854151001",
+      "4438530210"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-534.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 415,
+    "title": "Control Panel",
+    "oems": [
+      "341760214341760219",
+      "442987300724442987300814",
+      "2987300814"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-535.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 416,
+    "title": "Control plate 123",
+    "oems": [
+      "341971610",
+      "443960520200"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-536.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 417,
+    "title": "Oil pressure gauge sensor T1",
+    "oems": [
+      "341982411",
+      "443429093951",
+      "4434290060"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-537.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 418,
+    "title": "Oil pressure gauge sensor T2",
+    "oems": [
+      "341982412",
+      "443429020000",
+      "4434290200"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-538.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 419,
+    "title": "Lights Tripper",
+    "oems": [
+      "312922090397922091",
+      "443319700000",
+      "4433190100"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-539.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 420,
+    "title": "Switch",
+    "oems": [
+      "317939211317939210",
+      "443811445810443811445720",
+      "4438110840"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-540.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 421,
+    "title": "Bellows Spring 15 boltsvlnovec TATRA 15d\u011br bez v\u00edk",
+    "oems": [
+      "341350850",
+      "443624050002",
+      "4436240130"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-541.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 422,
+    "title": "Upper cover v\u00edko horn\u00ed vlnovec 15 d\u011br \u041a\u0440\u044b\u0448\u043a\u0430 \u0432\u0435\u0440\u0445\u043d\u044f\u044f \u0441\u0438\u043b\u044c\u0444\u043e\u043d\u0430",
+    "oems": [
+      "341352060",
+      "442075050214",
+      "2075050214"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-542.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 423,
+    "title": "Lower cover v\u00edko doln\u00ed vlnovec 15 d\u011br \u041a\u0440\u044b\u0448\u043a\u0430 \u043d\u0438\u0436\u043d\u044f\u044f \u0441\u0438\u043b\u044c\u0444\u043e\u043d\u0430",
+    "oems": [
+      "341352070",
+      "442075050204",
+      "2075050204"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-543.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 424,
+    "title": "Rear LampRh",
+    "oems": [
+      "336924000",
+      "443312236103",
+      "4433120480"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-544.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 425,
+    "title": "Rear LampLh",
+    "oems": [
+      "336924001",
+      "443312237103",
+      "4433120460"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-545.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 426,
+    "title": "Lamp Cover",
+    "oems": [
+      "336924260",
+      "321851015320",
+      "336924261",
+      "321851015322"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-546.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 427,
+    "title": "Dome Light",
+    "oems": [
+      "390923002390923003",
+      "443313108103",
+      "4433130040"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-548.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 428,
+    "title": "Asymmetric Headlamp",
+    "oems": [
+      "341920061341920060",
+      "443311761103443311722103",
+      "4433110340"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-549.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 429,
+    "title": "Fog Lamp",
+    "oems": [
+      "390921012",
+      "443312580103443311809109",
+      "4433110650"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-550.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 430,
+    "title": "Back-up light",
+    "oems": [
+      "109921020319921020",
+      "443312553103443312557109",
+      "4433110670"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-551.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 431,
+    "title": "Ball bearing",
+    "oems": [
+      "341650112",
+      "336686310802",
+      "3369000070",
+      "336650113336650115",
+      "442079380064442079380104",
+      "2079380104",
+      "961330500",
+      "324233050000",
+      "3242330050",
+      "3305",
+      "960602603",
+      "324165260003",
+      "9903001390",
+      "6026",
+      "960621200",
+      "324162125900",
+      "3241622660",
+      "6212",
+      "960621497",
+      "324162145900",
+      "9903001380",
+      "6214",
+      "960631734",
+      "324163179461",
+      "3241631730",
+      "6317",
+      "960720400",
+      "324172040000",
+      "9901005310",
+      "7204"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-708.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 432,
+    "title": "Load Regulator",
+    "oems": [
+      "341530184",
+      "443612000000",
+      "4436120350"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-554.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 433,
+    "title": "Pneumatic Horn",
+    "oems": [
+      "390935001",
+      "443322003000443322000000",
+      "4433210040"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-555.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 434,
+    "title": "Air Reservoir 35L",
+    "oems": [
+      "336530093",
+      "443612461807",
+      "336-530095"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-556.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 435,
+    "title": "Manual Brake",
+    "oems": [
+      "Valve961-702-001-0",
+      "317530210",
+      "443612004000452330364504",
+      "4436120040"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-558.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 436,
+    "title": "Relief Valve",
+    "oems": [
+      "341530272",
+      "443612074700",
+      "4436121450"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-559.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 437,
+    "title": "Main Brake Valve",
+    "oems": [
+      "341530011",
+      "443612226007",
+      "4436121770"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-560.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 438,
+    "title": "Air intake line",
+    "oems": [
+      "341050625",
+      "442070332214",
+      "2070332214"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-562.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 439,
+    "title": "Air Cleaner",
+    "oems": [
+      "341946021341946026",
+      "443743911800443743370800",
+      "437430410"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-563.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 440,
+    "title": "Rubber Bellows",
+    "oems": [
+      "336059825",
+      "273124080134",
+      "344059820",
+      "273124060044442054390524",
+      "2054391604"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-566.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 441,
+    "title": "Dilatation bag",
+    "oems": [
+      "341095811",
+      "273124021422442054391304",
+      "2054391304"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-567.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 442,
+    "title": "Bent Rubber Tube",
+    "oems": [
+      "317095970",
+      "273133010300273199003380",
+      "2731115560"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-568.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 443,
+    "title": "Cleaner Insert",
+    "oems": [
+      "341946201",
+      "273451111325"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-569.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 444,
+    "title": "Air pre-cleaner T148",
+    "oems": [
+      "336946024",
+      "443743424800"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-570.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 445,
+    "title": "Fuel Tank",
+    "oems": [
+      "341610021341610024",
+      "442076500774442076501024",
+      "2076501024"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-571.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 446,
+    "title": "Cover to neck T1",
+    "oems": [
+      "341614012",
+      "442076530234",
+      "2076530234"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-572.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 447,
+    "title": "Cover to neck T2",
+    "oems": [
+      "4435250010"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-573.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 448,
+    "title": "Fuel Filter Fj",
+    "oems": [
+      "2R-1252",
+      "336968000",
+      "443979731252"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-574.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 449,
+    "title": "Hand Pump",
+    "oems": [
+      "336965120",
+      "443979642261",
+      "4437240220"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-575.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 450,
+    "title": "Front Wind Shield Glass",
+    "oems": [
+      "341740510",
+      "634452010000442940010114",
+      "2940010114"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-576.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 451,
+    "title": "Rear-View Mirror Holder",
+    "oems": [
+      "341742307341742306",
+      "442976910174442976110184442976910184",
+      "2976910184"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-577.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 452,
+    "title": "Push-Button Switch",
+    "oems": [
+      "335939030",
+      "443854183001",
+      "4438520240"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-578.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 453,
+    "title": "Adapter",
+    "oems": [
+      "341522742",
+      "442075063654",
+      "2075063654"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-579.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 454,
+    "title": "Pedal",
+    "oems": [
+      "341520240",
+      "442071160604",
+      "2071160604"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-580.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 455,
+    "title": "Pedal Bearing",
+    "oems": [
+      "341522230",
+      "442075030464",
+      "2075030464"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-581.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 456,
+    "title": "Gear-Shift Housing",
+    "oems": [
+      "341510110",
+      "442017580394",
+      "2017580394"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-582.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 457,
+    "title": "Spring Washer",
+    "oems": [
+      "991741020",
+      "311214115200"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-583.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 458,
+    "title": "Combustion chamber",
+    "oems": [
+      "341971460",
+      "443960521612"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-584.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 459,
+    "title": "Heater T1",
+    "oems": [
+      "341971023",
+      "443522756708",
+      "4435220320"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-585.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 460,
+    "title": "Heater T2",
+    "oems": [
+      "341971024",
+      "443522756713",
+      "4435220280"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-586.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 461,
+    "title": "Heating body",
+    "oems": [
+      "341972071",
+      "443950521018",
+      "4435120350"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-587.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 462,
+    "title": "Straight cock",
+    "oems": [
+      "397691020",
+      "341691010",
+      "443761335200443761353600",
+      "4436120910"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-588.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 463,
+    "title": "Fan",
+    "oems": [
+      "341971080",
+      "442070400414",
+      "2070400414",
+      "341971081341971083",
+      "443960523018",
+      "9907002050"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-589.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 464,
+    "title": "Fuse Box",
+    "oems": [
+      "340939360",
+      "441040450024",
+      "1040450024"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-592.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 465,
+    "title": "Headlamp Switch",
+    "oems": [
+      "312939030",
+      "443854112001",
+      "4438530680",
+      "341939020",
+      "443851278001",
+      "4438510360"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-593.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 466,
+    "title": "Stop Switch T1",
+    "oems": [
+      "390530113",
+      "443852030854"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-594.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 467,
+    "title": "Stop Switch T2",
+    "oems": [
+      "390530119",
+      "443852119040",
+      "4438520050"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-595.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 468,
+    "title": "Pneumatic Switch",
+    "oems": [
+      "317530111311530111",
+      "443852040046443852027046",
+      "44385202504438520260"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-596.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 469,
+    "title": "Safety Thermoswitch",
+    "oems": [
+      "341971221341971224",
+      "443960521581443960525103",
+      "9907000350"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-597.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 470,
+    "title": "Cable",
+    "oems": [
+      "336602750",
+      "442075061004",
+      "2075061004"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-598.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 471,
+    "title": "Dust-proof collar",
+    "oems": [
+      "341539829",
+      "443962503396",
+      "4439600840",
+      "341539820",
+      "443962505157"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-599.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 472,
+    "title": "Set of gaskets-Engine",
+    "oems": [
+      "T815T3A-929",
+      "08-99110-90",
+      "2077400524"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-602.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 473,
+    "title": "Set of gaskets-Gearbox",
+    "oems": [
+      "2077400424"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-603.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 474,
+    "title": "Set of gaskets-Clutch booster",
+    "oems": [
+      "2077400544"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-604.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 475,
+    "title": "Set of gaskets-Gear-shift booster",
+    "oems": [
+      "2077400434"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-605.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 476,
+    "title": "Engine repair",
+    "oems": [
+      "kitT3A-929"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-606.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 477,
+    "title": "Set of gaskets-Injection",
+    "oems": [
+      "pump443711011549"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-607.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 478,
+    "title": "Set of gaskets-Main",
+    "oems": [
+      "cylinder443611012000"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-608.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 479,
+    "title": "Set of gaskets-Front brake",
+    "oems": [
+      "cylinder443612164003",
+      "cylinder443612193004",
+      "341530990"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-609.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 480,
+    "title": "Set of gaskets-Main brake",
+    "oems": [
+      "valve443612226007"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-611.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 481,
+    "title": "Set of gaskets-Manual brake",
+    "oems": [
+      "valve443612000000"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-612.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 482,
+    "title": "Set of gaskets-Air pressure",
+    "oems": [
+      "regulator443612015809"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-613.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 483,
+    "title": "Set of gaskets-Condensate",
+    "oems": [
+      "sump443612051801"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-614.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 484,
+    "title": "Set of gaskets-Control",
+    "oems": [
+      "valve443612280001"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-615.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 485,
+    "title": "Set of gaskets-Hydraulic",
+    "oems": [
+      "aggregate336194011218",
+      "cylinder336315430594",
+      "jack336313312700"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-616.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 486,
+    "title": "Set of gaskets-Hand",
+    "oems": [
+      "pump443979642261"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-617.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 487,
+    "title": "Set of gaskets-Servo-steering",
+    "oems": [
+      "cylinder336711465402"
+    ],
+    "category": "Steering & Hydraulics",
+    "image": "assets/tatra/tatra-618.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 488,
+    "title": "Set of gaskets-Hydreulic",
+    "oems": [
+      "cylinder336315432179"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-620.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 489,
+    "title": "Set of gaslets- Engine T163",
+    "oems": [],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-622.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 490,
+    "title": "Shaft sealing double-lip",
+    "oems": [
+      "73.5*110*10",
+      "2735210990",
+      "2735211020",
+      "73.5*110*13",
+      "2735211080",
+      "35*50*7",
+      "9903007740",
+      "160*190*15",
+      "2735212910",
+      "170*200*15",
+      "2735213090"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-623.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 491,
+    "title": "Shaft sealing single-lip",
+    "oems": [
+      "150*180*15",
+      "953150315",
+      "273521023821",
+      "99030077502735212970"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-628.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 492,
+    "title": "Shaft sealing FPM",
+    "oems": [
+      "30*55*9",
+      "2735212630"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-638.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 493,
+    "title": "Shaft sealing MVQ GPV",
+    "oems": [
+      "30*55*10",
+      "2735212740"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-639.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 494,
+    "title": "Shaft",
+    "oems": [
+      "sealing75*100*10",
+      "273521322000",
+      "2735213220",
+      "TW02328"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-652.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 495,
+    "title": "Shaft sealing RWDR",
+    "oems": [
+      "165*190*15.5/17",
+      "2735213250",
+      "170*190*9",
+      "2735213670"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-658.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 496,
+    "title": "O ring",
+    "oems": [
+      "200*5",
+      "2731102830",
+      "250*3",
+      "2731102880"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-660.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 497,
+    "title": "Tire Forklift",
+    "oems": [
+      "2.50-15-18-PR"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-662.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 498,
+    "title": "Tire Wheel",
+    "oems": [
+      "6.50-10-10-PR",
+      "5.00",
+      "10.00R20-18",
+      "7.50",
+      "445/65R22.5",
+      "2741430150",
+      "14.00"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-665.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 499,
+    "title": "Tire T815",
+    "oems": [
+      "12.00-20-18PR",
+      "2741430430"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-666.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 500,
+    "title": "Hose",
+    "oems": [
+      "4*320",
+      "311591970",
+      "336641372011",
+      "4*400",
+      "336691970",
+      "4*670",
+      "340593970",
+      "4*950",
+      "341560610341596974",
+      "6*250",
+      "335096892",
+      "336641372111",
+      "6*300",
+      "790096970",
+      "6*500",
+      "341691970790096970",
+      "6*600",
+      "341596972",
+      "8*250",
+      "335096893",
+      "336641372211",
+      "8*300",
+      "780096971",
+      "8*500",
+      "336096971",
+      "336096971780096971",
+      "8*600",
+      "305590974",
+      "10*300",
+      "335590971",
+      "336635100405",
+      "10*560",
+      "335590977",
+      "336641372311",
+      "10*630",
+      "341590971",
+      "336632100413"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-667.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 501,
+    "title": "High-pressure hose",
+    "oems": [
+      "8*400",
+      "335195973335195976",
+      "336631105308",
+      "10*450",
+      "341590970",
+      "336632100409",
+      "20*400",
+      "344695970",
+      "336632100908",
+      "20*800",
+      "336695973",
+      "336631101017"
+    ],
+    "category": "Fuel, Filters & Exhaust",
+    "image": "assets/tatra/tatra-677.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 502,
+    "title": "Cap nut 6 \u03a66",
+    "oems": [
+      "397568810",
+      "319418103410",
+      "31941105804436112400"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-687.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 503,
+    "title": "Sealing ring 6 \u03a66",
+    "oems": [
+      "341561940",
+      "442053610044",
+      "44260086902053610044"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-688.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 504,
+    "title": "Insert 6 \u03a66",
+    "oems": [
+      "311561940",
+      "548212105000548212105009",
+      "5482120010"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-689.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 505,
+    "title": "Cap nut 8 \u03a68",
+    "oems": [
+      "443611239000",
+      "4436112390"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-690.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 506,
+    "title": "Sealing ring 8 \u03a68",
+    "oems": [
+      "341561941",
+      "442053610054",
+      "31941105202053610054"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-691.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 507,
+    "title": "Insert 8 \u03a68",
+    "oems": [
+      "311561941",
+      "548212106000",
+      "5482120020"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-692.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 508,
+    "title": "Cap nut 10 \u03a610",
+    "oems": [
+      "4436112360"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-693.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 509,
+    "title": "Sealing ring 10 \u03a610",
+    "oems": [
+      "341561942",
+      "442053610064",
+      "2053610064"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-694.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 510,
+    "title": "Insert 10 \u03a610",
+    "oems": [
+      "311561942",
+      "548213107000",
+      "5482120030"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-695.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 511,
+    "title": "Nut 15 \u03a615",
+    "oems": [
+      "4436112160"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-696.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 512,
+    "title": "Sealing ring 15 \u03a615",
+    "oems": [
+      "4436112110"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-697.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 513,
+    "title": "Insert 15 \u03a615",
+    "oems": [
+      "311561943",
+      "548213108000",
+      "5482120040"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-698.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 514,
+    "title": "Dome light switch",
+    "oems": [
+      "356939010",
+      "443851244001",
+      "4438510250"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-699.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 515,
+    "title": "Fog lamp switch",
+    "oems": [
+      "356939011",
+      "443851245001",
+      "4438510290"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-700.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 516,
+    "title": "Axle switch",
+    "oems": [
+      "341939019",
+      "443851253001",
+      "4438510310",
+      "341939021",
+      "443851281001",
+      "4438510400"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-701.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 517,
+    "title": "Roller bearing RNU 212",
+    "oems": [
+      "964212370",
+      "324412120500",
+      "9903006080"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-704.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 518,
+    "title": "Ball bearing NU",
+    "oems": [
+      "964217473",
+      "324417172073",
+      "3244170320",
+      "2217"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-705.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 519,
+    "title": "Roller bearing NJ",
+    "oems": [
+      "964309299",
+      "324428092003",
+      "3244280180",
+      "2309"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-706.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 520,
+    "title": "Roller bearing",
+    "oems": [
+      "961320603",
+      "324232060003",
+      "3242320140",
+      "3206",
+      "966490500",
+      "324549050000",
+      "3245450220",
+      "4905",
+      "966491001",
+      "324592491072",
+      "9903006130",
+      "4910",
+      "960600700",
+      "324165070000",
+      "3421650080",
+      "6007",
+      "960601200",
+      "324165120000",
+      "3241652130",
+      "6012",
+      "960620177",
+      "324162010028",
+      "9901006540",
+      "6201",
+      "960620592",
+      "324162058303",
+      "9901006210",
+      "6205",
+      "960620680",
+      "324162060010",
+      "3241622380",
+      "6206",
+      "960620700",
+      "324162070100",
+      "3241620080",
+      "6207",
+      "960621999",
+      "324162190100",
+      "3241620210",
+      "6219",
+      "960630474",
+      "324163040228",
+      "3241630340",
+      "6304",
+      "960630600",
+      "324163060100",
+      "3241630070",
+      "6306",
+      "960630795",
+      "324163078380",
+      "9901000130",
+      "6307",
+      "963022109",
+      "324712212000",
+      "32471207109931004450",
+      "30221",
+      "963201800",
+      "324715187400324714025000",
+      "3247140250",
+      "32018",
+      "963202400",
+      "324715247400",
+      "3247140360",
+      "32024",
+      "964026399",
+      "324415261060",
+      "3244150030",
+      "32126",
+      "963231207",
+      "324718120500",
+      "3247180400",
+      "32312",
+      "963231397",
+      "324718130000324718130100",
+      "3247180250",
+      "32313",
+      "963321599",
+      "324727152000",
+      "3247910070",
+      "33215"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-707.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 521,
+    "title": "Ball bearing 306B",
+    "oems": [
+      "964306170",
+      "324423060500",
+      "99010091409901003560"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-723.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 522,
+    "title": "Tapered roller bearing",
+    "oems": [
+      "963220999",
+      "324712090100",
+      "3247120630",
+      "30209",
+      "963021996",
+      "324712190100",
+      "32471205703247120680",
+      "30219",
+      "963202298",
+      "324715220320",
+      "3247140280",
+      "32022",
+      "963220998",
+      "324712095900",
+      "3247170270",
+      "32209",
+      "963221998",
+      "324717190100",
+      "32471705703217170570",
+      "32219",
+      "963231007",
+      "324718100500",
+      "32471802703247180280",
+      "32310"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-727.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 523,
+    "title": "Beariing",
+    "oems": [
+      "30210",
+      "963021092",
+      "324712107400324712100041",
+      "99020002303247120580"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-728.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 524,
+    "title": "Roller bearing NU410",
+    "oems": [
+      "964410373",
+      "324414104903",
+      "3244140480"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-745.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 525,
+    "title": "Bearing INA",
+    "oems": [
+      "72x80x46",
+      "3245450430",
+      "60X68X46",
+      "3245450410"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-750.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 526,
+    "title": "Gasket cover",
+    "oems": [
+      "442054020074",
+      "2054020074"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-752.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 527,
+    "title": "Nozzle",
+    "oems": [
+      "DLLA140P1098",
+      "443713054000",
+      "4437130540",
+      "433171708"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-754.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 528,
+    "title": "Clutch plate",
+    "oems": [
+      "2013830054"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-755.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 529,
+    "title": "Ring cylinder head",
+    "oems": [
+      "2010100034"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-757.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 530,
+    "title": "Tatra Heavy Spare Part #758",
+    "oems": [],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-758.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 531,
+    "title": "Carrier",
+    "oems": [
+      "341212540",
+      "442072080464",
+      "2072080464"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-759.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 532,
+    "title": "Relay",
+    "oems": [
+      "317939210",
+      "443811445540",
+      "4438110140"
+    ],
+    "category": "Electrical & Lighting",
+    "image": "assets/tatra/tatra-761.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 533,
+    "title": "Bush for Brake cam KU",
+    "oems": [
+      "3535",
+      "336338050",
+      "323427150703",
+      "9903001350"
+    ],
+    "category": "Brake Systems",
+    "image": "assets/tatra/tatra-762.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 534,
+    "title": "Bush for Clutch shaft",
+    "oems": [
+      "341158060",
+      "442015240124",
+      "2015240124"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-763.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 535,
+    "title": "Cover for Clutch shaft bearing",
+    "oems": [
+      "341152041",
+      "442015230034",
+      "2015230034"
+    ],
+    "category": "Clutch & Gearbox",
+    "image": "assets/tatra/tatra-764.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 536,
+    "title": "Nut for Front wheel hub T2",
+    "oems": [
+      "341439390",
+      "442052571414",
+      "2052571414"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-766.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 537,
+    "title": "Cylinder head T2",
+    "oems": [
+      "341020003",
+      "442070310844",
+      "2070310844"
+    ],
+    "category": "Engine & Cylinders",
+    "image": "assets/tatra/tatra-767.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 538,
+    "title": "Safety valve",
+    "oems": [
+      "310961430",
+      "443976904117",
+      "4439700520"
+    ],
+    "category": "Air & Pneumatic Valves",
+    "image": "assets/tatra/tatra-768.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 539,
+    "title": "Protective wheel sheet",
+    "oems": [
+      "336432111",
+      "442074120034",
+      "2074120034"
+    ],
+    "category": "Axles & Suspension",
+    "image": "assets/tatra/tatra-769.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 540,
+    "title": "Supporting ring",
+    "oems": [
+      "341338501",
+      "442050660824",
+      "3117391300",
+      "F316-18C"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-771.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 541,
+    "title": "Lock ring",
+    "oems": [
+      "341338510",
+      "442050660764",
+      "3117391260",
+      "F316-20C"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-772.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 542,
+    "title": "Lock ring 190",
+    "oems": [
+      "992931190",
+      "311733101900",
+      "3111731980",
+      "F316-26C"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-773.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 543,
+    "title": "Lock ring 45",
+    "oems": [
+      "992931045",
+      "311733100450",
+      "3111731410"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-774.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 544,
+    "title": "Lock ring 47",
+    "oems": [
+      "992931047",
+      "311733100470",
+      "3111731420"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-775.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 545,
+    "title": "Sealing ring Si",
+    "oems": [
+      "213*12",
+      "341094953",
+      "273111532055",
+      "2054170834"
+    ],
+    "category": "Bearings & Sealing",
+    "image": "assets/tatra/tatra-779.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 546,
+    "title": "lubricator",
+    "oems": [
+      "997451190",
+      "425110101140",
+      "4251110010"
+    ],
+    "category": "General Chassis & Spares",
+    "image": "assets/tatra/tatra-786.webp",
+    "variants_count": 1
+  },
+  {
+    "id": 547,
+    "title": "Upper step board,",
+    "oems": [
+      "341700352",
+      "442987950094",
+      "2987950094",
+      "611-26",
+      "341700355",
+      "442987950124",
+      "2987950124",
+      "611-27",
+      "341700350",
+      "442987950074",
+      "2987950074",
+      "611-28",
+      "341700353",
+      "442987950104",
+      "2987950104",
+      "611-29",
+      "341700362",
+      "442987960134",
+      "2987960134",
+      "341700363",
+      "442987960144",
+      "2987960144"
+    ],
+    "category": "Cabin & Body Parts",
+    "image": "assets/tatra/tatra-787.webp",
+    "variants_count": 1
+  }
+];
