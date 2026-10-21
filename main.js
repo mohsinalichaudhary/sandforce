@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const body = encodeURIComponent(
       `Hello Sandforce Sales Team,\n\nI am inquiring about availability and pricing for:\nProduct: ${productName || 'Equipment Parts'}\n\nPlease get in touch with me.\n\nThank you.`
     );
-    window.location.href = `mailto:sales@sandforce.ae?cc=sales.sandforce@gmail.com&subject=${subject}&body=${body}`;
+    window.location.href = `mailto:sales@sandforce.ae?cc=sales.sandforce@gmail.com,sandforce26@gmail.com&subject=${subject}&body=${body}`;
   };
 
   // Copy text utility
