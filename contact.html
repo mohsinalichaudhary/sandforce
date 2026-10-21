@@ -157,15 +157,19 @@
 
               <!-- Official Quotation Emails -->
               <div class="contact-info-block">
-                <span class="contact-label">Official Quotation Inquiries</span>
+                <span class="contact-label">Official Inquiries &amp; Quotations</span>
                 <div class="contact-emails-grid">
                   <div class="email-item">
-                    <span class="email-sublabel">Primary Desk</span>
+                    <span class="email-sublabel">Primary Sales Desk</span>
                     <a href="mailto:sales@sandforce.ae" class="contact-link">sales@sandforce.ae</a>
                   </div>
                   <div class="email-item">
                     <span class="email-sublabel">Secondary Dispatch</span>
                     <a href="mailto:sales.sandforce@gmail.com" class="contact-link">sales.sandforce@gmail.com</a>
+                  </div>
+                  <div class="email-item">
+                    <span class="email-sublabel">General Inquiries</span>
+                    <a href="mailto:sandforce26@gmail.com" class="contact-link">sandforce26@gmail.com</a>
                   </div>
                 </div>
               </div>
@@ -343,6 +347,7 @@
           <li>Phone / WhatsApp: <a href="tel:+971567861146"><strong>+971 56 786 1146</strong></a></li>
           <li>Primary Email: <a href="mailto:sales@sandforce.ae">sales@sandforce.ae</a></li>
           <li>Secondary Email: <a href="mailto:sales.sandforce@gmail.com">sales.sandforce@gmail.com</a></li>
+          <li>General Inquiries: <a href="mailto:sandforce26@gmail.com">sandforce26@gmail.com</a></li>
           <li>Sales Executive: <strong>S. S. Shaikh</strong></li>
           <li style="margin-top:1rem;">
             <a href="https://wa.me/971567861146?text=Hello%20Sandforce%20Team%2C%20I%20am%20requesting%20a%20quote." target="_blank" rel="noopener" class="btn-card-wa" style="display:inline-flex;">
@@ -434,7 +439,7 @@
         `Requirement Details:\n${message}\n\n` +
         `Submitted via www.sandforce.ae`;
 
-      const mailto = `mailto:sales@sandforce.ae?cc=sales.sandforce@gmail.com&subject=${encodeURIComponent(`Quotation Request: ${name} (${company || 'Parts Inquiry'})`)}&body=${encodeURIComponent(body)}`;
+      const mailto = `mailto:sales@sandforce.ae?cc=sales.sandforce@gmail.com,sandforce26@gmail.com&subject=${encodeURIComponent(`Quotation Request: ${name} (${company || 'Parts Inquiry'})`)}&body=${encodeURIComponent(body)}`;
       window.location.href = mailto;
       document.getElementById('quoteStatusMsg').style.display = 'block';
     }
