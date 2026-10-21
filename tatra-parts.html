@@ -387,7 +387,45 @@
       </div>
     </section>
 
-    <!-- Sticky Filter & Search Bar -->
+    <!-- Dedicated Prominent Search & Quick Discovery Hub -->
+    <section class="catalog-search-hero">
+      <div class="container-x">
+        <div class="search-prominent-wrap">
+          <div class="search-prominent-box">
+            <span class="search-icon-svg" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </span>
+            <input
+              type="text"
+              id="tatraSearchInput"
+              placeholder="Search 792 Tatra parts by name, OEM number (e.g. 4436122420, 2071820334), or ID…"
+              class="search-prominent-input"
+              aria-label="Search all 792 Tatra truck parts"
+              autocomplete="off"
+            >
+            <button type="button" id="clearTatraSearchBtn" class="search-clear-btn" aria-label="Clear search" style="display:none;">&times;</button>
+          </div>
+
+          <!-- Quick Discovery Chips -->
+          <div class="search-quick-tags">
+            <span class="quick-tags-label">Quick Search:</span>
+            <button type="button" class="quick-chip" data-search="Brake Cylinder">Brake Cylinder</button>
+            <button type="button" class="quick-chip" data-search="Compressor">Compressor</button>
+            <button type="button" class="quick-chip" data-search="Clutch">Clutch Plates</button>
+            <button type="button" class="quick-chip" data-search="Gearbox">Gearbox</button>
+            <button type="button" class="quick-chip" data-search="Wheel Hub">Wheel Hubs</button>
+            <button type="button" class="quick-chip" data-search="Bearing">Bearings</button>
+            <button type="button" class="quick-chip" data-search="Starter">Starters &amp; Alternators</button>
+            <button type="button" class="quick-chip" data-search="Shaft Sealing">Shaft Seals</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sticky System Filter Bar -->
     <section class="filter-bar">
       <div class="container-x filter-bar-inner">
         <div class="filter-pills" id="tatraPills">
@@ -402,16 +440,6 @@
           <button type="button" class="filter-pill" data-category="Brake Systems">Brake Systems (33)</button>
           <button type="button" class="filter-pill" data-category="Cabin & Body Parts">Cabin &amp; Body (29)</button>
           <button type="button" class="filter-pill" data-category="Steering & Hydraulics">Steering &amp; Hydraulics (26)</button>
-        </div>
-
-        <div class="search-input-box">
-          <input
-            type="text"
-            id="tatraSearchInput"
-            placeholder="Search 792 Tatra parts by name, OEM number (e.g. 4436122420), or ID…"
-            class="search-input"
-            aria-label="Filter Tatra parts by name or OEM"
-          >
         </div>
       </div>
     </section>
@@ -773,10 +801,42 @@
         if (e.target === modal) modal.classList.remove('open');
       });
 
-      // Search event
-      searchInput.addEventListener('input', function() {
-        currentQuery = this.value.trim();
-        applyFilter();
+      const clearSearchBtn = document.getElementById('clearTatraSearchBtn');
+      const quickChips = document.querySelectorAll('.quick-chip');
+
+      if (searchInput) {
+        searchInput.addEventListener('input', function() {
+          currentQuery = this.value.trim();
+          if (clearSearchBtn) {
+            clearSearchBtn.style.display = this.value.length > 0 ? 'block' : 'none';
+          }
+          applyFilter();
+        });
+      }
+
+      if (clearSearchBtn) {
+        clearSearchBtn.addEventListener('click', function() {
+          searchInput.value = '';
+          currentQuery = '';
+          clearSearchBtn.style.display = 'none';
+          applyFilter();
+          searchInput.focus();
+        });
+      }
+
+      quickChips.forEach(chip => {
+        chip.addEventListener('click', function() {
+          const val = this.getAttribute('data-search');
+          if (searchInput) {
+            searchInput.value = val;
+            currentQuery = val;
+            if (clearSearchBtn) clearSearchBtn.style.display = 'block';
+            applyFilter();
+            if (grid) {
+              window.scrollTo({ top: grid.offsetTop - 140, behavior: 'smooth' });
+            }
+          }
+        });
       });
 
       // Filter pills

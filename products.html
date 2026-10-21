@@ -203,26 +203,54 @@
       </div>
     </section>
 
-    <!-- Sticky Filter & Search Bar (Mobile Optimized) -->
+    <!-- Dedicated Prominent Search & Quick Discovery Hub -->
+    <section class="catalog-search-hero">
+      <div class="container-x">
+        <div class="search-prominent-wrap">
+          <div class="search-prominent-box">
+            <span class="search-icon-svg" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </span>
+            <input
+              type="text"
+              id="productSearchInput"
+              placeholder="Search 49 categories, components, or specifications (e.g. Brake, Valve, O-Ring, Jack, Tatra)…"
+              class="search-prominent-input"
+              aria-label="Search all 49 product categories"
+              autocomplete="off"
+            >
+            <button type="button" id="clearSearchBtn" class="search-clear-btn" aria-label="Clear search" style="display:none;">&times;</button>
+          </div>
+
+          <!-- Quick Discovery Chips -->
+          <div class="search-quick-tags">
+            <span class="quick-tags-label">Quick Search:</span>
+            <button type="button" class="quick-chip" data-search="Brake">Brake Systems</button>
+            <button type="button" class="quick-chip" data-search="Hydraulic Seals">Hydraulic Seals</button>
+            <button type="button" class="quick-chip" data-search="O-Ring">O-Rings</button>
+            <button type="button" class="quick-chip" data-search="Valve">Valves</button>
+            <button type="button" class="quick-chip" data-search="Gas Spring">Gas Springs</button>
+            <button type="button" class="quick-chip" data-search="Tatra">Tatra Parts</button>
+            <button type="button" class="quick-chip" data-search="Tools">Workshop Tools</button>
+            <button type="button" class="quick-chip" data-search="Plastics">Engineering Plastics</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sticky Division Filter Bar -->
     <section class="filter-bar">
       <div class="container-x filter-bar-inner">
-                        <div class="filter-pills" id="filterPills">
+        <div class="filter-pills" id="filterPills">
           <button type="button" class="filter-pill active" data-group="all">All (49)</button>
           <button type="button" class="filter-pill" data-group="Heavy Equipment & Automotive">Heavy Equipment &amp; Auto (12)</button>
           <button type="button" class="filter-pill" data-group="Seals, O-Rings & Gaskets">Seals &amp; Gaskets (10)</button>
           <button type="button" class="filter-pill" data-group="Mechanical, Lifting & Valves">Mechanical &amp; Valves (10)</button>
           <button type="button" class="filter-pill" data-group="Tools & Workshop Supplies">Tools &amp; Workshop (11)</button>
           <button type="button" class="filter-pill" data-group="Industrial Materials & Plastics">Materials &amp; Plastics (6)</button>
-        </div>
-
-        <div class="search-input-box">
-          <input
-            type="text"
-            id="productSearchInput"
-            placeholder="Search 49 categories, parts, or specifications…"
-            class="search-input"
-            aria-label="Filter products by name or keyword"
-          >
         </div>
       </div>
     </section>
@@ -1786,18 +1814,51 @@
         });
       });
 
+      const clearSearchBtn = document.getElementById('clearSearchBtn');
+      const quickChips = document.querySelectorAll('.quick-chip');
+
       if (searchInput) {
         searchInput.addEventListener('input', function() {
           currentQuery = this.value.trim().toLowerCase();
+          if (clearSearchBtn) {
+            clearSearchBtn.style.display = this.value.length > 0 ? 'block' : 'none';
+          }
           filterCatalog();
         });
       }
+
+      if (clearSearchBtn) {
+        clearSearchBtn.addEventListener('click', function() {
+          searchInput.value = '';
+          currentQuery = '';
+          clearSearchBtn.style.display = 'none';
+          filterCatalog();
+          searchInput.focus();
+        });
+      }
+
+      quickChips.forEach(chip => {
+        chip.addEventListener('click', function() {
+          const val = this.getAttribute('data-search');
+          if (searchInput) {
+            searchInput.value = val;
+            currentQuery = val.toLowerCase();
+            if (clearSearchBtn) clearSearchBtn.style.display = 'block';
+            filterCatalog();
+            const gridEl = document.getElementById('productsCatalogGrid');
+            if (gridEl) {
+              window.scrollTo({ top: gridEl.offsetTop - 140, behavior: 'smooth' });
+            }
+          }
+        });
+      });
 
       if (resetBtn) {
         resetBtn.addEventListener('click', function() {
           currentGroup = 'all';
           currentQuery = '';
           if (searchInput) searchInput.value = '';
+          if (clearSearchBtn) clearSearchBtn.style.display = 'none';
           pills.forEach(p => p.classList.remove('active'));
           pills[0].classList.add('active');
           filterCatalog();
