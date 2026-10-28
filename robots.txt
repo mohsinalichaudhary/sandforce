@@ -1,6 +1,27 @@
 # robots.txt for https://www.sandforce.ae/
+# Optimized for Search Engines (Google, Bing) and AI Answer Engines (SearchGPT, Claude, Perplexity)
+
 User-agent: *
 Allow: /
 
-# Sitemaps
+# Permit AI & Answer Engine crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Canonical XML Sitemap
 Sitemap: https://www.sandforce.ae/sitemap.xml
